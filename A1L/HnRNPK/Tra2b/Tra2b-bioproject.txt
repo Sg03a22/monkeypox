@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['675817', '644123', '565439', '565391', '448909', '355076', '338699', '298861', '255099', '151827'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Tra2b[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Tra2b[All Fields]'}

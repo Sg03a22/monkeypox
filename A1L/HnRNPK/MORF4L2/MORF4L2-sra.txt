@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['17339878', '17338949', '2434997', '2433461', '2431925', '2430388'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MORF4L2[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MORF4L2[All Fields]'}

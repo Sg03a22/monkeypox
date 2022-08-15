@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['421692', '365784', '350577', '349615'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'IVNS1ABP[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'IVNS1ABP[All Fields]'}

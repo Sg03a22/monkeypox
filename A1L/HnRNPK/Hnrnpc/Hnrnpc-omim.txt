@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['614663', '614648', '610640', '300841', '264700', '164870', '164020', '160900'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Hnrnpc[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Hnrnpc[All Fields]'}

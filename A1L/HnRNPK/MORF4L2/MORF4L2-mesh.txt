@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['67491669'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MORF4L2[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MORF4L2[All Fields]'}

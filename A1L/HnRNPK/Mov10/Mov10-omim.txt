@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['619878', '610742', '610740', '605794', '602912', '601430'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Mov10[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Mov10[All Fields]'}

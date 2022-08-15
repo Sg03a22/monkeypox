@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['5135252', '4888782', '4735882', '4102312', '4102310', '4102304', '4102300', '4102298', '4102296', '4102294', '4102292'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'YARS2[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'YARS2[All Fields]'}

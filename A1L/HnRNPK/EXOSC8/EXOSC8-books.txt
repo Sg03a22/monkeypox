@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['5352490', '5352488', '5352486', '5074154', '4980526', '3295048', '2459164'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'EXOSC8[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'EXOSC8[All Fields]'}

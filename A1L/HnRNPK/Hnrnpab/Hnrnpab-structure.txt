@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['92600'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Hnrnpab[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Hnrnpab[All Fields]'}

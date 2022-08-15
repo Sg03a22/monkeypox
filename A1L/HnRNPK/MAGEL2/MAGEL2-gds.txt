@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['200012231', '200012230', '200012227'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MAGEL2[All Fields]', 'Field': 'All Fields', 'Count': '3053', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MAGEL2[All Fields]'}

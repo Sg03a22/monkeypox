@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['200128682', '200118001'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Tubb4b[All Fields]', 'Field': 'All Fields', 'Count': '3487', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Tubb4b[All Fields]'}

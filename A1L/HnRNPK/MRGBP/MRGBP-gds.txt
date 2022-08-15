@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['200181533', '200034785'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MRGBP[All Fields]', 'Field': 'All Fields', 'Count': '2955', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MRGBP[All Fields]'}

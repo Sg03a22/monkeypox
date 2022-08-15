@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['611480'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PIH1D1[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PIH1D1[All Fields]'}

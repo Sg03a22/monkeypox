@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['48424'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ARIH2[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ARIH2[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['95113', '84264', '83196', '82077', '59666', '34322'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PPIE[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PPIE[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['606644'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'IGSF8[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'IGSF8[All Fields]'}

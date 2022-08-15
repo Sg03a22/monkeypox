@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(TATVDAH68029[All Fields])', 'ErrorList': {'PhraseNotFound': ['TATVDAH68029'], 'FieldNotFound': []}, 'WarningList': {'QuotedPhraseNotFound': [], 'OutputMessage': ['No items found.'], 'PhraseIgnored': []}}

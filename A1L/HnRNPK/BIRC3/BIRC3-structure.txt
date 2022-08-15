@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['210670', '81743', '81742', '66657', '66656', '45398'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'BIRC3[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'BIRC3[All Fields]'}

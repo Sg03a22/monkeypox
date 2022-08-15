@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['179932', '147083', '93372', '66221', '66153', '59211', '56405', '34295', '27259', '21774', '12345', '12344', '11463', '8008'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ICAM1[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ICAM1[All Fields]'}

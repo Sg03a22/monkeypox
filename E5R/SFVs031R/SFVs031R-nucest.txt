@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(SFVs031R[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['SFVs031R']}, 'WarningList': {'OutputMessage': ['No items found.'], 'PhraseIgnored': [], 'QuotedPhraseNotFound': []}}

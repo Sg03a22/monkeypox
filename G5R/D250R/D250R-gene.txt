@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['22220331', '41901310', '41902518', '41902179', '41901965', '41901806', '41901640', '41901472', '41901151', '41902684', '1488866'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'D250R[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'D250R[All Fields]'}

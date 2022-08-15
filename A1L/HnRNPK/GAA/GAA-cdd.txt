@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['422958', '418427', '418019', '410046', '365779', '341138', '270212', '269888', '269886', '269876'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'GAA[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'GAA[All Fields]'}

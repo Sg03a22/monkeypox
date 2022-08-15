@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['616325', '616304', '615120', '613859', '608382', '604270', '602007', '601592', '601462', '601296', '182350', '164762', '103320'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'AGRN[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'AGRN[All Fields]'}

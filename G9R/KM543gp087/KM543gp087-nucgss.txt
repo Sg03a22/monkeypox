@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(KM543gp087[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['KM543gp087']}, 'WarningList': {'PhraseIgnored': [], 'QuotedPhraseNotFound': [], 'OutputMessage': ['No items found.']}}

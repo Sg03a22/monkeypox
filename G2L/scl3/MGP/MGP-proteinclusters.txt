@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['2743453', '2512715', '2511194', '2511191', '2511166', '437119'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MGP[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MGP[All Fields]'}

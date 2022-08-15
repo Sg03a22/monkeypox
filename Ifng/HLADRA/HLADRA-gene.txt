@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['3123', '3122', '100187587', '430189', '100495492', '495177', '100464279', '124107610', '101706353', '101128237'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'HLADRA[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'HLADRA[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['200066677'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'QSOX2[All Fields]', 'Field': 'All Fields', 'Count': '2413', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'QSOX2[All Fields]'}

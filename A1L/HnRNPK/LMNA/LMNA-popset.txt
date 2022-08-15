@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['343158376', '1026736957', '666387114', '457234588', '264667114', '375304776', '74229054', '66885311'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'LMNA[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'LMNA[All Fields]'}

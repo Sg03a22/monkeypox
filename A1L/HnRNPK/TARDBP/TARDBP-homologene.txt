@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['134087', '7221'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TARDBP[All Fields]', 'Field': 'All Fields', 'Count': '2', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TARDBP[All Fields]'}

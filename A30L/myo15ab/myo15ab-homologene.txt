@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['124606'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'myo15ab[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'myo15ab[All Fields]'}

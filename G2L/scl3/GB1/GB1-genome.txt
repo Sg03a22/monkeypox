@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['93388', '54047', '50907', '45272', '30950', '18266', '18221', '14230', '10239', '2584', '755', '739', '360', '4'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'GB1[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'GB1[All Fields]'}

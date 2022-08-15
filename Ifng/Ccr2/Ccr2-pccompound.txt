@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['146158831', '73334813', '73013747', '57345449', '56972239', '46208367', '44453327', '24801690', '22335674', '22143221', '12093170'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Ccr2[All Fields]', 'Field': 'All Fields', 'Count': '17', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Ccr2[All Fields]'}

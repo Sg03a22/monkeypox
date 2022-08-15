@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['19156482', '19156481', '19156480', '19156479', '19156478', '19156477', '19156476', '19156475', '17576984', '17576983', '17576785', '11342338'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CYLD[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CYLD[All Fields]'}

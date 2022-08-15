@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(SPPV56[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['SPPV56']}, 'WarningList': {'OutputMessage': ['No items found.'], 'PhraseIgnored': [], 'QuotedPhraseNotFound': []}}

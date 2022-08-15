@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['13062615', '13062614', '13062613', '13062612', '8921958', '6294177', '6446251', '2470571'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Spz1[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Spz1[All Fields]'}

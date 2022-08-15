@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['200184235', '200063510', '200060860', '200045980', '200001894', '301551263', '301551262', '300033604', '300033596'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'NCK2[All Fields]', 'Field': 'All Fields', 'Count': '3539', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'NCK2[All Fields]'}

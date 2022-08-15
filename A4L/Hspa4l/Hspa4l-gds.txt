@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['200186389', '200186384', '200080205', '200080196', '305648502', '305646966', '302119469', '302117933', '302116397', '302114861'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Hspa4l[All Fields]', 'Field': 'All Fields', 'Count': '3594', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Hspa4l[All Fields]'}

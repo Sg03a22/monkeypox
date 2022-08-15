@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['137175', '121866', '116011', '100661', '68636', '48402', '40950', '37293', '23226', '21915', '15129', '4676', '2384', '2097'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'tat[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'tat[All Fields]'}

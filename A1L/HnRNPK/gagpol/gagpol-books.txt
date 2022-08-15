@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['1686944', '1414600', '1414592', '1414584', '1370310'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'gagpol[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'gagpol[All Fields]'}

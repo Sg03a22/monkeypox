@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['617413', '613397', '610982', '610932', '610005', '604222', '309000', '153615', '137350', '122200', '109400', '105120', '102610'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'GSN[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'GSN[All Fields]'}

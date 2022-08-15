@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['193044', '189695', '185438', '185437', '184067', '184066', '181833', '174260', '155220', '151460', '150622', '131521'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SMARCB1[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SMARCB1[All Fields]'}

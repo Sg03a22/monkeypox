@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(MIMIR596[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['MIMIR596']}, 'WarningList': {'QuotedPhraseNotFound': [], 'PhraseIgnored': [], 'OutputMessage': ['No items found.']}}

@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['2499244'], 'TranslationSet': [{'From': 'ENOS', 'To': 'ENOS[All Fields]'}], 'TranslationStack': [{'Term': 'ENOS[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ENOS[All Fields]'}

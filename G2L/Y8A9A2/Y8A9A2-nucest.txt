@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(Y8A9A2[All Fields])', 'ErrorList': {'PhraseNotFound': ['Y8A9A2'], 'FieldNotFound': []}, 'WarningList': {'PhraseIgnored': [], 'QuotedPhraseNotFound': [], 'OutputMessage': ['No items found.']}}

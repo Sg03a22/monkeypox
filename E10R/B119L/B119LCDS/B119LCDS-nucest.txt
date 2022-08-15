@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(B119LCDS[All Fields])', 'ErrorList': {'PhraseNotFound': ['B119LCDS'], 'FieldNotFound': []}, 'WarningList': {'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}}

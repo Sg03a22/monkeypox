@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['2947953', '33349933'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'BPSVgORF102[All Fields]', 'Field': 'All Fields', 'Count': '2', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'BPSVgORF102[All Fields]'}

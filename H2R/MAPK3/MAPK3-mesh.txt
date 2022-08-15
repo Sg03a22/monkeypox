@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['68048052', '67499045', '2051370', '2028747'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MAPK3[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MAPK3[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['200088265', '200088220', '200050866', '302343693', '302343692', '302343612', '302343611'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ube2l3[All Fields]', 'Field': 'All Fields', 'Count': '3611', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ube2l3[All Fields]'}

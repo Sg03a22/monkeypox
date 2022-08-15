@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(K489DRAFT11527[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['K489DRAFT11527']}, 'WarningList': {'QuotedPhraseNotFound': [], 'OutputMessage': ['No items found.'], 'PhraseIgnored': []}}

@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(HHV8GK18gp81[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['HHV8GK18gp81']}, 'WarningList': {'OutputMessage': ['No items found.'], 'PhraseIgnored': [], 'QuotedPhraseNotFound': []}}

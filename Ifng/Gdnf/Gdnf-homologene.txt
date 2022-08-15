@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['140832', '136730', '136591', '136554', '131781', '114454', '45748', '11200', '10565', '3855', '1548', '1146', '1145', '433'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Gdnf[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Gdnf[All Fields]'}

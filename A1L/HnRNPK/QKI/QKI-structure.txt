@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['139045', '109946', '109944', '102846'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'QKI[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'QKI[All Fields]'}

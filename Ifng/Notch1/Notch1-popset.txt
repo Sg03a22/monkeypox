@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['452887534', '66894579'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Notch1[All Fields]', 'Field': 'All Fields', 'Count': '2', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Notch1[All Fields]'}

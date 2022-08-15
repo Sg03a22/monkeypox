@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['419960', '293854', '293830', '293804', '293803', '293802'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ELAC2[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ELAC2[All Fields]'}

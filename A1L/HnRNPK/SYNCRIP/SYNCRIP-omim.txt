@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['616686', '600950', '138295'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SYNCRIP[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SYNCRIP[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['68034802', '67577608', '67576197', '67574775', '67563195', '67563181', '67560860', '67544391', '67529969', '67500986', '2011744'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'EWSR1[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'EWSR1[All Fields]'}

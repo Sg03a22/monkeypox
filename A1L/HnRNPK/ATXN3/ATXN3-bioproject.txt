@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['807286', '551811', '482631', '480874', '422398', '422042', '379845', '362191', '238815', '212243', '212067'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ATXN3[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ATXN3[All Fields]'}

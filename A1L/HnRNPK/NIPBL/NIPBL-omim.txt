@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['614701', '614560', '613174', '608667', '607956', '606215', '606062', '604358', '300882', '300826', '300590', '300040', '142995', '122470'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'NIPBL[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'NIPBL[All Fields]'}

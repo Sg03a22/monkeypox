@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['424079', '418427', '410954', '410953', '410952', '410951', '409918', '409910', '408161', '240933'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Syncrip[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Syncrip[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['10244'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'monkeypox[All Names]', 'Field': 'All Names', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'monkeypox[All Names]', 'ErrorList': {'PhraseNotFound': [], 'FieldNotFound': ['Human']}}

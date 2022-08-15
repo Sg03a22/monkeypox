@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['5865962', '3595325', '3328307', '2970487', '2969491', '2968390', '2945268', '2945181', '2849097', '2435642'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MYC[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MYC[All Fields]'}

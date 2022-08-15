@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(MYSEV131[All Fields])', 'ErrorList': {'PhraseNotFound': ['MYSEV131'], 'FieldNotFound': []}, 'WarningList': {'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}}

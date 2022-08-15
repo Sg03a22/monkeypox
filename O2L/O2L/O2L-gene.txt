@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['3707602', '929038', '928894', '1486479', '72551470', '72551435', '11107187', '65100812', '1486113'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'O2L[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'O2L[All Fields]'}

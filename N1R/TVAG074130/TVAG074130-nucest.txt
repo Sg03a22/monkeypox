@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(TVAG074130[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['TVAG074130']}, 'WarningList': {'OutputMessage': ['No items found.'], 'PhraseIgnored': [], 'QuotedPhraseNotFound': []}}

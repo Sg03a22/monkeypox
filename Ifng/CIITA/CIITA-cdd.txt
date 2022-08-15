@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['417757', '417479', '405901', '260032', '260019', '200532'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CIITA[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CIITA[All Fields]'}

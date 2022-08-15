@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['201205', '194523', '179719', '151053', '150673', '150672', '134502', '134501', '134500', '134499', '116768', '111558', '110002', '74820'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SRSF1[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SRSF1[All Fields]'}

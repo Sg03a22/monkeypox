@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['421700', '418428', '412974', '399866', '398567', '340715', '270090', '270089', '270075'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'FAP[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'FAP[All Fields]'}

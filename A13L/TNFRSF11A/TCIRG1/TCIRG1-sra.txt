@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['8136655', '8136654', '8136653', '8136593', '8136592', '8136591'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TCIRG1[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TCIRG1[All Fields]'}

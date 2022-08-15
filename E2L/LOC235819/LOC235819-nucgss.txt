@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(LOC235819[All Fields])', 'ErrorList': {'PhraseNotFound': ['LOC235819'], 'FieldNotFound': []}, 'WarningList': {'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}}

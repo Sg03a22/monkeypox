@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(BA71VE248Rk2R[All Fields])', 'ErrorList': {'PhraseNotFound': ['BA71VE248Rk2R'], 'FieldNotFound': []}, 'WarningList': {'QuotedPhraseNotFound': [], 'OutputMessage': ['No items found.'], 'PhraseIgnored': []}}

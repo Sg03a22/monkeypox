@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(Slfn10ps[All Fields])', 'ErrorList': {'PhraseNotFound': ['Slfn10ps'], 'FieldNotFound': []}, 'WarningList': {'QuotedPhraseNotFound': [], 'OutputMessage': ['No items found.'], 'PhraseIgnored': []}}

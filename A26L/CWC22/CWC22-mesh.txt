@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['67578086', '67555352', '2013336'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CWC22[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CWC22[All Fields]'}

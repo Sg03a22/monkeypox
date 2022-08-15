@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['8539426', '8539425', '8497247', '8497246', '8497245', '8497244', '8497243', '8497242'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Chrna4[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Chrna4[All Fields]'}

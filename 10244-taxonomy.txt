@@ -1,0 +1,1 @@
+[{'Item': [], 'Id': '10244', 'Status': 'active', 'Rank': 'species', 'Division': 'viruses', 'ScientificName': 'Monkeypox virus', 'CommonName': 'monkeypox', 'TaxId': IntegerElement(10244, attributes={}), 'AkaTaxId': IntegerElement(0, attributes={}), 'Genus': '', 'Species': '', 'Subsp': '', 'ModificationDate': '2022/07/01 00:00'}]

@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['35569923', '27999174', '27525512', '19091875', '17554311'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'UBP26[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'UBP26[All Fields]'}

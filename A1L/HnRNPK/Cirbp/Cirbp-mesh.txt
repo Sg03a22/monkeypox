@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['67585827', '67491390', '67112949', '67106176'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Cirbp[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Cirbp[All Fields]'}

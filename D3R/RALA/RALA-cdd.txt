@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['422963', '421700', '418428', '340729', '333715', '320047', '270120', '269933', '206710'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'RALA[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'RALA[All Fields]'}

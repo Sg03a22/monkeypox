@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['7912', '7656', '7529', '6241', '4003', '3880', '1403'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'USP[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'USP[All Fields]', 'ErrorList': {'FieldNotFound': ['O X'], 'PhraseNotFound': []}}

@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['131704479', '102369451'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'BRCA1[All Fields]', 'Field': 'All Fields', 'Count': '2', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'BRCA1[All Fields]'}

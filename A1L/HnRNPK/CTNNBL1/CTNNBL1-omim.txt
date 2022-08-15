@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['619846', '611537'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CTNNBL1[All Fields]', 'Field': 'All Fields', 'Count': '2', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CTNNBL1[All Fields]'}

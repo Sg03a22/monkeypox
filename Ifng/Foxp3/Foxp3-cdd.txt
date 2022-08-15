@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['421689', '418438', '412138', '410840', '410807', '320322', '320321', '319585', '319373'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Foxp3[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Foxp3[All Fields]'}

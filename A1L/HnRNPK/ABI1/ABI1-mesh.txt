@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['67582671', '67554931', '67540972', '67513734', '67513733', '67119539', '67114045', '67087434', '2028947'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ABI1[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ABI1[All Fields]'}

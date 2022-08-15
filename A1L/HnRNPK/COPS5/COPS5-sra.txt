@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['17339046', '17338863', '17576980', '17576979', '17576783', '2434004', '2432468', '2430931', '2429395'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'COPS5[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'COPS5[All Fields]'}

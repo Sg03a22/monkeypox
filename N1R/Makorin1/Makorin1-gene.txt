@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['54484', '353327', '100485650', '110296208', '444671', '105248257', '101795282', '777952', '105187344'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Makorin1[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Makorin1[All Fields]'}

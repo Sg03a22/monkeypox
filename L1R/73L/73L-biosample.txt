@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['17673909', '21561705', '21561704', '17375277', '12122097', '12122096', '13404347', '9906819', '6344448', '3858090'], 'TranslationSet': [], 'TranslationStack': [{'Term': '73L[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': '73L[All Fields]'}

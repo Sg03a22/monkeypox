@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['425404', '421700', '418438', '411775', '340684', '340532', '340531', '340462', '319706', '319648', '319564'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SUMO1[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SUMO1[All Fields]'}

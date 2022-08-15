@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['4293564', '2979106', '2979088', '2979086', '2979078', '2979076', '2979008', '2979002', '2828580', '2334144', '2334140'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'QKI[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'QKI[All Fields]'}

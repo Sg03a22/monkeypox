@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['5045774', '4819456', '4103724', '4103712', '3317080', '3074756', '2567080', '2567062', '2567026', '2567016', '1468830', '1468802'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MBNL1[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MBNL1[All Fields]'}

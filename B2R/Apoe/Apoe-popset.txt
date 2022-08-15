@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['194140922', '226451631', '298107087', '372292217', '94961400', '66898204'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Apoe[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Apoe[All Fields]'}

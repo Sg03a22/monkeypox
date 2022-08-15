@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(FPRO10796[All Fields])', 'ErrorList': {'PhraseNotFound': ['FPRO10796'], 'FieldNotFound': []}, 'WarningList': {'PhraseIgnored': [], 'QuotedPhraseNotFound': [], 'OutputMessage': ['No items found.']}}

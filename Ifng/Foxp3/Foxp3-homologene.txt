@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['8516'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Foxp3[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Foxp3[All Fields]'}

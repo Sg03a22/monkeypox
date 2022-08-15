@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(T05B413[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['T05B413']}, 'WarningList': {'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': [], 'PhraseIgnored': []}}

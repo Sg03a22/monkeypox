@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['619789', '613466', '613465', '612632', '611279', '610000', '605664', '605638', '605064', '604980', '224120', '165390', '105600'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'KIF23[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'KIF23[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['145708007', '6456370'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'NEDD8[All Fields]', 'Field': 'All Fields', 'Count': '2', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'NEDD8[All Fields]'}

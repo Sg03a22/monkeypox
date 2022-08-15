@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['614461', '613273', '611347', '607389', '605490', '603372', '603098', '600439', '165510', '165500'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SSBP1[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SSBP1[All Fields]'}

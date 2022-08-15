@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['200187008', '200019841', '305666249', '305666232', '305666231'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SENP2[All Fields]', 'Field': 'All Fields', 'Count': '3505', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SENP2[All Fields]'}

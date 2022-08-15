@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['1913127', '1882361', '1701702'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PDIA3[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PDIA3[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '15', 'RetMax': '15', 'RetStart': '0', 'IdList': ['119838', '112459', '91392', '91391', '85847', '76523', '70845', '68563', '68562', '62101', '43392', '42987', '42985', '42983', '16567'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Trp53[All Fields]', 'Field': 'All Fields', 'Count': '15', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Trp53[All Fields]'}

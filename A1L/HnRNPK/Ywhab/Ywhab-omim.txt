@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['617289', '612064', '612003', '610679', '609937', '606158', '605965', '605435', '605066', '601442', '601289', '601288', '113508'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Ywhab[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Ywhab[All Fields]'}

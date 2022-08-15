@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['200142977', '200126789', '303613330', '303613329', '303613328', '303613327', '303613326', '303613325'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'WWP1[All Fields]', 'Field': 'All Fields', 'Count': '3266', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'WWP1[All Fields]'}

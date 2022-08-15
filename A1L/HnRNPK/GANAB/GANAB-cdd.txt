@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['422958', '269889', '269886'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'GANAB[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'GANAB[All Fields]'}

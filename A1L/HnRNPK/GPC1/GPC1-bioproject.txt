@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['660357', '259173', '151177', '148055', '126393'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'GPC1[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'GPC1[All Fields]'}

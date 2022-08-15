@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['177493', '177492', '177490', '157045', '143511', '143510', '142747', '141100', '111721', '106818'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'OPTN[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'OPTN[All Fields]'}

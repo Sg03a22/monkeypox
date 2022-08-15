@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['2440742', '2440586', '2440514'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ZFP36L2[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ZFP36L2[All Fields]'}

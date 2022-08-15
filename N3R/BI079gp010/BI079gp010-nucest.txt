@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(BI079gp010[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['BI079gp010']}, 'WarningList': {'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': [], 'PhraseIgnored': []}}

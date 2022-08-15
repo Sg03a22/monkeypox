@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['135082', '135081', '135080', '76296', '63585'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CBX4[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CBX4[All Fields]'}

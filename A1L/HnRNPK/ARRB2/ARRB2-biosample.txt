@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['22507665', '22505940', '16493307', '16493306', '16493305', '4684746', '4666492', '4663690', '4656857'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ARRB2[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ARRB2[All Fields]'}

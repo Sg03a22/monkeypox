@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['57520395'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CAV1[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CAV1[All Fields]'}

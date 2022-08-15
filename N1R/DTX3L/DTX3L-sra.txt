@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['8486888', '8486887', '8486886', '8486885', '8486884', '8486883', '8486882', '8486881', '8486880', '8486879', '8486878', '8486877'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'DTX3L[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'DTX3L[All Fields]'}

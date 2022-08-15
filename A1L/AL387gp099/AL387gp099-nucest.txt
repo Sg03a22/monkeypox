@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(AL387gp099[All Fields])', 'ErrorList': {'PhraseNotFound': ['AL387gp099'], 'FieldNotFound': []}, 'WarningList': {'QuotedPhraseNotFound': [], 'PhraseIgnored': [], 'OutputMessage': ['No items found.']}}

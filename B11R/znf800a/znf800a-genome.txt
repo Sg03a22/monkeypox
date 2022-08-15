@@ -1,0 +1,1 @@
+{'Count': '16', 'RetMax': '16', 'RetStart': '0', 'IdList': ['115781', '98629', '72955', '45310', '43772', '22969', '18422', '13073', '12038', '10839', '10452', '9650', '6999', '2648', '198', '50'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'znf800a[All Fields]', 'Field': 'All Fields', 'Count': '16', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'znf800a[All Fields]'}

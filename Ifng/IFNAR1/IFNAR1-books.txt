@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['5006782', '5006772', '4963846', '4963834', '4960570', '4465970', '3134390', '1418728'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'IFNAR1[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'IFNAR1[All Fields]'}

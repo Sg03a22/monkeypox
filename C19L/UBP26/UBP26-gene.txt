@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['830878', '830548', '820364', '824122', '100285328', '109225654', '110930142', '110116051', '9312045'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'UBP26[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'UBP26[All Fields]'}

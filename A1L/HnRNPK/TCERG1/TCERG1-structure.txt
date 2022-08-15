@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['125166', '125165', '125164', '125163', '125162', '125161', '107950', '90175', '76103', '43085'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TCERG1[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TCERG1[All Fields]'}

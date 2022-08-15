@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(ASPACDRAFT77222[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['ASPACDRAFT77222']}, 'WarningList': {'OutputMessage': ['No items found.'], 'PhraseIgnored': [], 'QuotedPhraseNotFound': []}}

@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['9111850', '9111849', '9111848', '9111847', '9111846', '9111845', '9111843', '9111842'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ildr2[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ildr2[All Fields]'}

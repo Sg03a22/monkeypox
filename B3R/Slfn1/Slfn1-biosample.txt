@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['8121386', '8121385', '8121384', '8121374', '8121373', '8121372', '8121353', '8121352', '8121351', '8121209', '8121208', '8121207'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Slfn1[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Slfn1[All Fields]'}

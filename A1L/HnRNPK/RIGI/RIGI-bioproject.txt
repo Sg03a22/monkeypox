@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['449369', '449075', '264572', '144923'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'RIGI[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'RIGI[All Fields]'}

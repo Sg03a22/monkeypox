@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['4140697'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'pard3ba[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'pard3ba[All Fields]'}

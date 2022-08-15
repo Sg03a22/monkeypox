@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['4475956', '4475948', '4087894', '4087886', '4087884', '4087880', '1432228', '1432220'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CASP9[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CASP9[All Fields]'}

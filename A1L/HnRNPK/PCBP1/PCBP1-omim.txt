@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['617447', '601210', '601209', '600712', '600124', '134790', '134770'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PCBP1[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PCBP1[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['15041636', '15041635', '15041604', '151942'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'UQCRC2[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'UQCRC2[All Fields]'}

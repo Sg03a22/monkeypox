@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['425408', '421559', '419867', '417686', '412013', '277116', '277032', '276805', '198237', '198236'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'EP300[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'EP300[All Fields]'}

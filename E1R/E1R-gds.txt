@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['200121338', '200121336', '200121334', '303431765', '303431764', '303431743', '303431742'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'E1R[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'E1R[All Fields]'}

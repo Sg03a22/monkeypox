@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['1486816', '35381593', '19738013', '19737734', '19738271', '19738270', '19737983'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'FPV244[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'FPV244[All Fields]'}

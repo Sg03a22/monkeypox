@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['12291295', '12291294', '12291293', '12291289', '12291288', '12291287', '12271873', '6982866', '4585099'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CUL1[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CUL1[All Fields]'}

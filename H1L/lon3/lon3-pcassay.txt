@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['285200', '285199', '565060', '565059', '565056', '564895', '564890', '564889', '564888', '564887', '564886', '564885'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'lon3[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'lon3[All Fields]'}

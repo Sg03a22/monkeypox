@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['754481', '745985', '697878', '675816', '642841', '309122', '290341', '290340', '278507', '246274', '235967', '231776', '230267'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SRSF10[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SRSF10[All Fields]'}

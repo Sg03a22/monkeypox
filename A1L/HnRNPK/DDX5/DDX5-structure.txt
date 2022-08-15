@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['101815', '82027', '77547', '68579', '66053', '61661', '61107', '60750', '59685', '45556', '45374', '38425'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'DDX5[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'DDX5[All Fields]'}

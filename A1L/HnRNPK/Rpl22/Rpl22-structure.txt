@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['217996', '171089', '171012', '151640', '146920', '146313', '146040', '99495', '99458', '97153', '20571'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Rpl22[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Rpl22[All Fields]'}

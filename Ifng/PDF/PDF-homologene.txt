@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['136227', '71025', '69354', '37644', '3576'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PDF[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PDF[All Fields]'}

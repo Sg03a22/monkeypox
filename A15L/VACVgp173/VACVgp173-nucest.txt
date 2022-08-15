@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(VACVgp173[All Fields])', 'ErrorList': {'PhraseNotFound': ['VACVgp173'], 'FieldNotFound': []}, 'WarningList': {'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': [], 'PhraseIgnored': []}}

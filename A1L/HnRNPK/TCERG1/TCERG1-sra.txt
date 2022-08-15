@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['17340321', '17338341', '2434344', '2432808', '2431271', '2429735', '122981'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TCERG1[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TCERG1[All Fields]'}

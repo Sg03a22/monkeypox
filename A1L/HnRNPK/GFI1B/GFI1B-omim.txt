@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['609132', '607675', '604383', '604267', '600871', '231200', '190080', '187900'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'GFI1B[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'GFI1B[All Fields]'}

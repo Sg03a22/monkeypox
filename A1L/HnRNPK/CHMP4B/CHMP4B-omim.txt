@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['611130', '610907', '610901', '610900', '610899', '610897', '610893', '610051', '608074', '605387', '601754', '601023', '164010'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CHMP4B[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CHMP4B[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['116251', '45261', '41726', '17509', '13741', '10319', '726', '530', '175', '154', '47', '32', '31'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'asp[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'asp[All Fields]'}

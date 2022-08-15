@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['610245', '604662', '602358', '300697', '173370', '167050', '131340', '122561'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PDYN[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PDYN[All Fields]'}

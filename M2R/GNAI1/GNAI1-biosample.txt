@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['13134238', '13134237', '13134236', '13134235', '13134234', '13134233'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'GNAI1[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'GNAI1[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(PCPVgp106[All Fields])', 'ErrorList': {'PhraseNotFound': ['PCPVgp106'], 'FieldNotFound': []}, 'WarningList': {'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': [], 'PhraseIgnored': []}}

@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['67580075', '67530718', '67515848', '2014957'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Cebpa[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Cebpa[All Fields]'}

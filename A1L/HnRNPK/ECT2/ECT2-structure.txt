@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['182727', '168616', '165537', '122706', '79350', '36297'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ECT2[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ECT2[All Fields]'}

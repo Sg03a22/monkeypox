@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(SAMD00019534024410[All Fields])', 'ErrorList': {'PhraseNotFound': ['SAMD00019534024410'], 'FieldNotFound': []}, 'WarningList': {'PhraseIgnored': [], 'QuotedPhraseNotFound': [], 'OutputMessage': ['No items found.']}}

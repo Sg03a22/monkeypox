@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['69797958', '16079005', '10138988'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SMAD3[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SMAD3[All Fields]'}

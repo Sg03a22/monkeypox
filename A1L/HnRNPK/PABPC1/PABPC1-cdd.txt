@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['418427', '410105', '409864', '409815', '409814', '409813', '409812'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PABPC1[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PABPC1[All Fields]'}

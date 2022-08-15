@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(PmarPMAR014715[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['PmarPMAR014715']}, 'WarningList': {'QuotedPhraseNotFound': [], 'PhraseIgnored': [], 'OutputMessage': ['No items found.']}}

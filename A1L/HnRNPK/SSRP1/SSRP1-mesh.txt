@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['67567967', '67073537', '67070454', '2051259'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SSRP1[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SSRP1[All Fields]'}

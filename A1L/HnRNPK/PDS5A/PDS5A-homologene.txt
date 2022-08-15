@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['22877'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PDS5A[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PDS5A[All Fields]'}

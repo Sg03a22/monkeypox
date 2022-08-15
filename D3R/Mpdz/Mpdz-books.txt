@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['4965554', '4965548', '3132054', '3132050', '3049522', '3049478', '2288820'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Mpdz[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Mpdz[All Fields]'}

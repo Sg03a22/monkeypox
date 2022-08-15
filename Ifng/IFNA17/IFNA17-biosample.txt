@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['7376664', '7376663', '7376662', '7376661', '7376660', '7376659'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'IFNA17[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'IFNA17[All Fields]'}

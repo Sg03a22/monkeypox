@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['412120', '409127', '409057'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'LIMCH1[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'LIMCH1[All Fields]'}

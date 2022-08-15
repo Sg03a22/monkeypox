@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['4645932', '4370598', '3047842', '3023626', '3023622', '1438376', '1437222', '1437210', '1425128'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'WDR5[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'WDR5[All Fields]'}

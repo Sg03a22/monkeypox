@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['814686', '829919', '824589', '841464', '831919', '839396', '109239129', '109236599', '109219173', '109211851', '110904485', '110111561'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'JKD[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'JKD[All Fields]'}

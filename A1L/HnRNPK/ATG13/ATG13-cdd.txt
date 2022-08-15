@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['421700', '419665', '418428', '404245', '401861', '400281', '340756', '340755', '340754', '340580', '340546', '275403', '275402', '271104'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ATG13[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ATG13[All Fields]'}

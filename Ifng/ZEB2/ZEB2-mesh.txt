@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['67536990', '67492364', '67492363', '67120602', '2023263', '2013010', '2001924'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ZEB2[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ZEB2[All Fields]'}

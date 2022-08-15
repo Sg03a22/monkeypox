@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['199383', '199380', '199379', '199378', '199377', '177743', '177742'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Drd1[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Drd1[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['613490', '606963', '118938', '116830', '107400', '107280'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SERPINA3[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SERPINA3[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['136606', '132709', '9069'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CYLD[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CYLD[All Fields]'}

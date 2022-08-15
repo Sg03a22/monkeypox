@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['614392', '611421', '605347', '603934', '603466', '603445', '602950', '602700', '601993', '600662', '600354', '191170', '180660'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CARM1[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CARM1[All Fields]'}

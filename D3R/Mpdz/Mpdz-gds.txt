@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['200140567'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Mpdz[All Fields]', 'Field': 'All Fields', 'Count': '3844', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Mpdz[All Fields]'}

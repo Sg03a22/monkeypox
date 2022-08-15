@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['615256', '612233', '612203', '608348', '607008', '606829', '605368', '605280', '600816', '600141', '312080', '118190'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Hspd1[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Hspd1[All Fields]'}

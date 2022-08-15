@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['17338317', '17338163', '15564028', '15564027', '2435240', '2433704', '2432168', '2430631', '3294173', '3294172', '3293314', '3293313'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SUGP2[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SUGP2[All Fields]'}

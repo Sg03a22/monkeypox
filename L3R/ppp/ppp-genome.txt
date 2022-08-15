@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['38305', '4699', '881'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ppp[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ppp[All Fields]'}

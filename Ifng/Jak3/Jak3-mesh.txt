@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['68053616', '67563440', '67507936', '67507935', '67507933', '67406067', '2030651', '2018675', '2013551'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Jak3[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Jak3[All Fields]'}

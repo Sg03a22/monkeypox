@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['618645', '611882', '611273', '610331', '605132', '602969', '602228', '601041', '600190', '600189'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'tle1[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'tle1[All Fields]'}

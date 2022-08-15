@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(DBDeUGRS04220[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['DBDeUGRS04220']}, 'WarningList': {'OutputMessage': ['No items found.'], 'PhraseIgnored': [], 'QuotedPhraseNotFound': []}}

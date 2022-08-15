@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['2035174012', '2035174010', '1896475256', '1896475402', '1896475112', '1896474968', '1896474822', '1126565226', '299772328'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'gur3[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'gur3[All Fields]'}

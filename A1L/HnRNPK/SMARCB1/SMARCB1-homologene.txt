@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['127768', '93245', '68595', '39769', '22120', '2310'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SMARCB1[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SMARCB1[All Fields]'}

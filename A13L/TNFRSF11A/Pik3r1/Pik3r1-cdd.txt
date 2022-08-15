@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['421693', '417686', '355389', '350463', '214017', '214016', '198268'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Pik3r1[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Pik3r1[All Fields]'}

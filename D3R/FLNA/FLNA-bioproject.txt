@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['824491', '726417', '614750', '607311', '429450', '300987', '292985', '185770', '162313', '143077', '118247', '114115'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'FLNA[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'FLNA[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['138517', '105677', '56528'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Ywhaq[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Ywhaq[All Fields]'}

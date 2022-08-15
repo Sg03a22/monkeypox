@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['9628932', '1547601805'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MOCVgp050[All Fields]', 'Field': 'All Fields', 'Count': '2', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MOCVgp050[All Fields]'}

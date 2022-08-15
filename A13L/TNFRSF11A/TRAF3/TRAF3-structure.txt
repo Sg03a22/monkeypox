@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['198993', '137318', '105626', '105625', '49095', '38876', '34323', '28181', '19311', '19310', '14856'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TRAF3[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TRAF3[All Fields]'}

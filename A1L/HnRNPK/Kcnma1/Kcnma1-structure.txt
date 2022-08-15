@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['189537', '188938', '182686', '182685', '182684', '182678', '83114'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Kcnma1[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Kcnma1[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['68055748', '67565948', '67544611', '67542956', '67527784', '67527783', '67527782', '67527781', '2022798', '2022403', '2015492'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SOX2[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SOX2[All Fields]'}

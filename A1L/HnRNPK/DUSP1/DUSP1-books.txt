@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['5276826', '5255542', '5255528', '5144018', '5144006'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'DUSP1[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'DUSP1[All Fields]'}

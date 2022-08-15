@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['200159903', '200056573', '200063822', '200033867', '200014217', '300838195', '300633255'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MDH2[All Fields]', 'Field': 'All Fields', 'Count': '4024', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MDH2[All Fields]'}

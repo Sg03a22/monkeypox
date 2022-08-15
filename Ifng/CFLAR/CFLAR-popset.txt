@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['66884538'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CFLAR[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CFLAR[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['2277478352', '2128398459', '2128398309', '62637458', '18640155', '18448562', '115503318', '115503147'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SPV069[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SPV069[All Fields]'}

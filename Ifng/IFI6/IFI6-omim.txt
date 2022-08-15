@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['611320', '611319', '147572'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'IFI6[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'IFI6[All Fields]'}

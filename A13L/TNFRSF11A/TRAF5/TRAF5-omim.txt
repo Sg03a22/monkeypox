@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['608321', '606122', '605764', '603366', '602746', '602695', '602356', '601895', '153243', '109545', '109535'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TRAF5[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TRAF5[All Fields]'}

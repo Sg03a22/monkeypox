@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['67583457', '67561677', '67509425', '67486223', '67477161', '67118429', '67088374', '67086677'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'YAP1[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'YAP1[All Fields]'}

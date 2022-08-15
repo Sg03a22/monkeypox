@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['791241', '661555', '660481', '597472', '588179', '427903', '384771', '297145'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'KIF20A[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'KIF20A[All Fields]'}

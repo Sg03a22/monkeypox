@@ -1,0 +1,1 @@
+[{'Item': [], 'Id': '103820', 'Status': 'active', 'Rank': 'species', 'Division': 'bony fishes', 'ScientificName': 'Mycteroperca microlepis', 'CommonName': 'gag', 'TaxId': IntegerElement(103820, attributes={}), 'AkaTaxId': IntegerElement(0, attributes={}), 'Genus': 'Mycteroperca', 'Species': 'microlepis', 'Subsp': '', 'ModificationDate': '2018/10/31 00:00'}]

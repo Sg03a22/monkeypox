@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['1160531444', '566572458', '566572454', '566572448', '566572444', '108861542', '94961308', '94961304'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MMP2[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MMP2[All Fields]'}

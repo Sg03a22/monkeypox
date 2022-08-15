@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['421700', '419867', '418438', '413678', '407332', '396425', '365784', '349630', '340486', '319735', '319597', '277174', '277149', '176472'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'VHL[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'VHL[All Fields]'}

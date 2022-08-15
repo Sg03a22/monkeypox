@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['101732513', '101705465', '101576683', '101538869'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'EZH2[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'EZH2[All Fields]'}

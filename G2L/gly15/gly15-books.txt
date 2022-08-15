@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['4631710', '4631706', '4488606', '1657912', '1502070'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'gly15[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'gly15[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['177734', '165440', '134591', '134590', '134589', '127623', '127622', '121718', '121717', '121716', '78034', '64370', '41213'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'DDX3X[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'DDX3X[All Fields]'}

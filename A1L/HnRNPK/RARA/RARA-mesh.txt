@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['67580593', '67573414', '67534071', '67430907', '67030101', '2079468', '2054914', '2021314', '2017265', '2017264', '2017263'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'RARA[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'RARA[All Fields]'}

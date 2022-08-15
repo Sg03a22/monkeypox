@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['2202900836', '1261491695', '765526764'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Pdcd1[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Pdcd1[All Fields]'}

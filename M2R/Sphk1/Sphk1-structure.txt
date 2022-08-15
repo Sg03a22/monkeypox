@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['123929', '112104', '109790', '109789', '109520'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Sphk1[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Sphk1[All Fields]'}

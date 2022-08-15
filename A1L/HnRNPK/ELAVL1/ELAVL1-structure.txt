@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['217704', '171773', '168327', '168326', '168325', '168320', '154258', '103570', '100152', '99938', '81095'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ELAVL1[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ELAVL1[All Fields]'}

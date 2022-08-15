@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['22162902', '14462500', '14462499', '14462200', '14462199', '14462198', '14462197', '14462196', '9105665', '770585'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'H3L[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'H3L[All Fields]'}

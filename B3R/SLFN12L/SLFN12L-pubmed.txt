@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['35487288', '34949662', '32859637', '31980446', '30875077', '30379917', '29107068', '28275687', '27427984', '26623250'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SLFN12L[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SLFN12L[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['8427326', '8427325', '8427324', '8427323', '8427322', '8427321', '8427352', '8427351', '8427350', '8427349', '8427348', '8427347'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'P2RY2[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'P2RY2[All Fields]'}

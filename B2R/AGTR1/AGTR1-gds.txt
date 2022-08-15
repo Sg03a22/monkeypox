@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['200178265', '200138737', '200134062', '200121593', '200122343', '200034138'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'AGTR1[All Fields]', 'Field': 'All Fields', 'Count': '3247', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'AGTR1[All Fields]'}

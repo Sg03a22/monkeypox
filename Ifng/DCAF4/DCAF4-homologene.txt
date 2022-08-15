@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['9210'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'DCAF4[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'DCAF4[All Fields]'}

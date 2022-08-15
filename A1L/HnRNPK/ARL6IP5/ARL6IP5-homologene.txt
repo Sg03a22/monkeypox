@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['4673'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ARL6IP5[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ARL6IP5[All Fields]'}

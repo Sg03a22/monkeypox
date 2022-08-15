@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['419665', '412211', '412115', '406176', '405181', '394875', '271126', '271112', '238699'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SIRT1[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SIRT1[All Fields]'}

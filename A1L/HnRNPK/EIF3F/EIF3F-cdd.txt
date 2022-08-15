@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['419665', '417455', '173741', '163696', '163695', '163688'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'EIF3F[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'EIF3F[All Fields]'}

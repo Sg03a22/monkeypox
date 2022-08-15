@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['67505252', '67476104', '67473288', '67118197', '67067511', '67063057', '67059896', '2030247', '2028745', '2028731'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'OGT[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'OGT[All Fields]'}

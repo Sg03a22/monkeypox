@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(BO72DRAFT473454[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['BO72DRAFT473454']}, 'WarningList': {'PhraseIgnored': [], 'OutputMessage': ['No items found.'], 'QuotedPhraseNotFound': []}}

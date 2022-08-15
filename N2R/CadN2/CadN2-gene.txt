@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['34192', '35071', '121876939', '121874808', '121872838', '121872973', '121870257'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CadN2[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CadN2[All Fields]'}

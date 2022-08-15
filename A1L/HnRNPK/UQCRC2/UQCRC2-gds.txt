@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['200201408', '200151330', '200087850', '304572548', '304572547', '304572546', '302341919', '302341918', '302341917'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'UQCRC2[All Fields]', 'Field': 'All Fields', 'Count': '3808', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'UQCRC2[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['12060735', '12060734', '12060733', '4501133', '4501132', '4501131', '4501130', '4501129', '4501128', '4501127', '4501126'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SLIRP[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SLIRP[All Fields]'}

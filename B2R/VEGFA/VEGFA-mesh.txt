@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['67583604', '67509623', '67467498', '67467484', '67467480', '2051743', '2029271'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'VEGFA[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'VEGFA[All Fields]'}

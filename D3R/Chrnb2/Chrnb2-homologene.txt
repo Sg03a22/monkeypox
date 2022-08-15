@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['595'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Chrnb2[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Chrnb2[All Fields]'}

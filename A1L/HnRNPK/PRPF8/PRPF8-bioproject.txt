@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['817500', '755658', '755656', '694104', '579375', '496458', '417002', '354957', '290945', '268220', '260186', '184697'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PRPF8[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PRPF8[All Fields]'}

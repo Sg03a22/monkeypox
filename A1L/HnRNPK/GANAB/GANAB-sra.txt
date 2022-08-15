@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['12757954', '12757802', '12757801', '12757800', '8508845', '8508844'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'GANAB[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'GANAB[All Fields]'}

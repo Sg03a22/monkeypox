@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['4122886', '2825746', '1988866', '1988860', '1988836', '1865574', '1865568', '1865534', '1865532'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'NEDD8[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'NEDD8[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['113987'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PIAS3[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PIAS3[All Fields]'}

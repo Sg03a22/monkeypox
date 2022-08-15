@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['606212', '606211', '604611', '604124', '602810', '601742', '301062', '300683', '173870', '151626'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SIRT6[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SIRT6[All Fields]'}

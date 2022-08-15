@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['5535957', '4897258', '2917083', '2744362', '2690894', '2690760', '2688164', '2686051', '2685737', '2446308', '2428982', '963217', '871395'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MDM2[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MDM2[All Fields]'}

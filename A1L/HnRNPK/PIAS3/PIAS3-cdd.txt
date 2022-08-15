@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['418438', '417686', '412124', '380896', '380821', '319737', '319734', '319704', '319564', '319494', '198237'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PIAS3[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PIAS3[All Fields]'}

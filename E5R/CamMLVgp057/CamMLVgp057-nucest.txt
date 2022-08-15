@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['18640237'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CamMLVgp057[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CamMLVgp057[All Fields]'}

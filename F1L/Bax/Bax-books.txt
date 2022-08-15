@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['2703750', '2690752', '2660876'], 'TranslationSet': [], 'TranslationStack': [{'Term': '"Bax"[Full Author Name]', 'Field': 'Full Author Name', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': '"Bax"[Full Author Name]'}

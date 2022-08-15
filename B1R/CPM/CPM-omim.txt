@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['612309', '608859', '602981', '602396', '601709', '601456', '186880', '155600', '141500', '123890', '114860', '106491'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CPM[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CPM[All Fields]'}

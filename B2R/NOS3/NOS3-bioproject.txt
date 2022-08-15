@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['764767', '757958', '718841', '718840', '686410', '556232', '479857', '403843', '285162', '285161', '285157', '252018', '162561', '97263'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'NOS3[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'NOS3[All Fields]'}

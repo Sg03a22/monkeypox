@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['9817149'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'GAB2[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'GAB2[All Fields]'}

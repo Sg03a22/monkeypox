@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['22607676', '22607675', '22607674', '22607673', '22607672', '22607671', '7446701', '7446700', '3294444', '3294443', '3293690', '3293689'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'FAM120A[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'FAM120A[All Fields]'}

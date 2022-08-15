@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['5226576', '5226575', '5226573', '5226572', '5226571', '5226569', '5226565', '5226564', '5226562'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ITGA4[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ITGA4[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['419665', '418428', '418401', '417686', '269944', '212841', '212702', '198261', '198259', '198223', '198188', '173637', '133243'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ITK[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ITK[All Fields]'}

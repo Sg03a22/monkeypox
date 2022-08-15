@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['66904833'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'FLNA[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'FLNA[All Fields]'}

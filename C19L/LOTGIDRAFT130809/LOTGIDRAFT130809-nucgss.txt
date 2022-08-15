@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(LOTGIDRAFT130809[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['LOTGIDRAFT130809']}, 'WarningList': {'OutputMessage': ['No items found.'], 'PhraseIgnored': [], 'QuotedPhraseNotFound': []}}

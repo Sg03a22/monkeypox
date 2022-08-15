@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['200114289', '303138869', '303138868', '303138867', '303138866', '303138865', '303138864', '303138863', '303138862'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ildr2[All Fields]', 'Field': 'All Fields', 'Count': '2315', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ildr2[All Fields]'}

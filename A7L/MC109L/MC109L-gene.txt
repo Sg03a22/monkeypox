@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['1487128', '4363438', '2947858', '2947721'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MC109L[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MC109L[All Fields]'}

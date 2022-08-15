@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['180137', '155711', '155695', '155679', '155677', '144185', '140859'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'BMH1[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'BMH1[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['200202515', '200138322', '200090123', '200080569', '200037389', '200042148', '200036083', '4592', '200004956', '306123564', '306123563'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'FASLG[All Fields]', 'Field': 'All Fields', 'Count': '3638', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'FASLG[All Fields]'}

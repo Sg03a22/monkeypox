@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['200122568', '200071665'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'IPO5[All Fields]', 'Field': 'All Fields', 'Count': '3746', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'IPO5[All Fields]'}

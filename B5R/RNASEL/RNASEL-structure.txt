@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['191865', '191864', '191863', '118307', '118306', '117328', '117327', '104589', '104588', '62117', '29741'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'RNASEL[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'RNASEL[All Fields]'}

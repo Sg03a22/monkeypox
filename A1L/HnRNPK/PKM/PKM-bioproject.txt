@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['837585', '792379', '725008', '632747', '627415', '612885', '432215', '432212', '380363', '316111', '277960', '173063'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PKM[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PKM[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['67528215', '67498511', '67400132', '2027246'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'RASD1[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'RASD1[All Fields]'}

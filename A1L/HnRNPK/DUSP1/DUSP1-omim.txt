@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['618574', '608516', '606618', '604835', '603069', '602747', '601511', '600714', '600584', '190700', '188060'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'DUSP1[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'DUSP1[All Fields]'}

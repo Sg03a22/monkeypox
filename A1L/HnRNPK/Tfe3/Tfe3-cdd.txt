@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['412148', '412134', '406384', '397329', '381498', '381497', '381403', '381393'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Tfe3[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Tfe3[All Fields]'}

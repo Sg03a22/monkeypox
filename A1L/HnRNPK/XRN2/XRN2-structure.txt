@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['217339', '155871', '135836', '88554', '88553', '69452', '69451', '69450'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'XRN2[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'XRN2[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['425360', '418438', '410566', '409231', '409230', '409229', '409228', '409227', '319734'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'KLF1[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'KLF1[All Fields]'}

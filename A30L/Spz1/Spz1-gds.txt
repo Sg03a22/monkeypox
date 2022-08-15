@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['200094473', '302476203'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Spz1[All Fields]', 'Field': 'All Fields', 'Count': '2564', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Spz1[All Fields]'}

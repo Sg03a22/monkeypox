@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['1733736', '1733735', '1733734', '1557440'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MALAT1[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MALAT1[All Fields]'}

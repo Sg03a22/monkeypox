@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['419672', '269864', '269863', '269862', '269861', '269860', '269859', '269841'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CEBPB[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CEBPB[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['618627', '603109', '600993', '600967', '600659', '300772', '189902', '116957'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'e2f5[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'e2f5[All Fields]'}

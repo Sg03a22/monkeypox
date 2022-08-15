@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['9942299', '9247093', '9247092', '9247091', '4591319', '4591318', '4591317', '4591316', '4591315', '4591314', '4591313', '4591312', '3186713'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'RIGI[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'RIGI[All Fields]'}

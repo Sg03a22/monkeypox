@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['459160', '459153', '459152', '459151', '459150', '459161', '459159', '459158', '459157', '459156', '459155', '459154'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'C23R[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'C23R[All Fields]'}

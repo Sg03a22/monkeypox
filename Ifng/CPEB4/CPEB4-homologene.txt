@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['12736'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CPEB4[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CPEB4[All Fields]'}

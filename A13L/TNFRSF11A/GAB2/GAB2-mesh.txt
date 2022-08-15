@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['67490897', '67490895', '67490894', '67490893', '2024988', '2017526'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'GAB2[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'GAB2[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['183522', '183514', '183513', '172192', '172191', '163125', '122351', '122350', '122349', '10875', '1597', '1596'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CTSD[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CTSD[All Fields]'}

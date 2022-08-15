@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['616129', '614062', '613523', '612208', '612207', '610067', '609517', '603412', '173410'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MYO18A[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MYO18A[All Fields]'}

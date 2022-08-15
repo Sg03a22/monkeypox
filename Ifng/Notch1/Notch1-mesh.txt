@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['68051881', '67562942', '67549535', '67497763', '67497762', '67497761', '67490503', '67490502', '2030692', '2012313'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Notch1[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Notch1[All Fields]'}

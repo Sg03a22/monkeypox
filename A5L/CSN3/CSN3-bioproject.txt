@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['779668', '682302', '544129', '524204', '524202', '473703', '103645'], 'TranslationSet': [{'From': 'CSN3', 'To': 'CSN3[All Fields]'}], 'TranslationStack': [{'Term': 'CSN3[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CSN3[All Fields]'}

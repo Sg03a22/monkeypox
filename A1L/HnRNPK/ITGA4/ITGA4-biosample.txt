@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['8713015', '8713013', '8713012', '8713008', '8713006', '8713005', '8713004', '8713002', '8713001'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ITGA4[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ITGA4[All Fields]'}

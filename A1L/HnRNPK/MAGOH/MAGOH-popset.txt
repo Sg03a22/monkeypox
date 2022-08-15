@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['39772201'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MAGOH[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MAGOH[All Fields]'}

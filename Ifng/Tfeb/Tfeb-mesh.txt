@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['67574124', '67570684', '67484068', '67064972', '67057155'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Tfeb[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Tfeb[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(PHAVU009G100000g[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['PHAVU009G100000g']}, 'WarningList': {'OutputMessage': ['No items found.'], 'PhraseIgnored': [], 'QuotedPhraseNotFound': []}}

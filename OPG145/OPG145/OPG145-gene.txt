@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['72551540'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'OPG145[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'OPG145[All Fields]'}

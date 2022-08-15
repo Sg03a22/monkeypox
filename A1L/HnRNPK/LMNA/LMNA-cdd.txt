@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['405866', '333718', '320702'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'LMNA[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'LMNA[All Fields]'}

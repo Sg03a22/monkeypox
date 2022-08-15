@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['200132889', '200079077', '200050589', '303895631', '303895630', '303895629', '303895628', '303895627', '303895626'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TCIRG1[All Fields]', 'Field': 'All Fields', 'Count': '3560', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TCIRG1[All Fields]'}

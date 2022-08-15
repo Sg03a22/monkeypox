@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['200078171', '200071171', '200031997', '200031995', '302068751', '300792474'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'B2R[All Fields]', 'Field': 'All Fields', 'Count': '3246', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'B2R[All Fields]'}

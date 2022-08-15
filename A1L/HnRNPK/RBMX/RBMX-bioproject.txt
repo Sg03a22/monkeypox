@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['794847', '794845', '659519', '643547', '632747', '556911', '485413', '474942', '473320', '343265', '284260', '230267'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'RBMX[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'RBMX[All Fields]'}

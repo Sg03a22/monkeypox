@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['1148299056', '1148298793', '110349666', '110349632', '110349566', '311708802', '195969603'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MPK7[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MPK7[All Fields]'}

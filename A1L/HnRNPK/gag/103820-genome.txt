@@ -1,0 +1,1 @@
+[{'Item': [], 'Id': '103820', 'Organism_Name': 'Cyanobacteria bacterium REEB444', 'Organism_Kingdom': 'Bacteria', 'DefLine': '', 'ProjectID': '0', 'Number_of_Chromosomes': '0', 'Number_of_Plasmids': '0', 'Number_of_Organelles': '0', 'Assembly_Name': '', 'Assembly_Accession': '', 'AssemblyID': '0', 'Create_Date': '2021/06/21 00:00', 'Options': ''}]

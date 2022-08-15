@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['68051549', '67512417', '67496558', '67496557', '67496556', '2022977'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'GSTP1[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'GSTP1[All Fields]'}

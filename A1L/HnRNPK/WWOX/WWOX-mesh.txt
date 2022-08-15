@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['67576955', '67571895', '67559480', '67487612', '67486071', '67428130', '2023343', '2007594'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'WWOX[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'WWOX[All Fields]'}

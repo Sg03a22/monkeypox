@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(TRIVIDRAFT49200[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['TRIVIDRAFT49200']}, 'WarningList': {'OutputMessage': ['No items found.'], 'PhraseIgnored': [], 'QuotedPhraseNotFound': []}}

@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['609262', '607417', '606221', '603137', '603023', '601740', '600505', '600150', '600045', '153550'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CRBN[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CRBN[All Fields]'}

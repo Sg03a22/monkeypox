@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['68054325', '68016336', '68016334', '67558926', '67529738', '67514913', '67514912', '67501685', '67470634', '67422457'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'vpr[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'vpr[All Fields]'}

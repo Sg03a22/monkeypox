@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['2194973091', '568815584', '1677556866', '763422994', '198042061', '5689770', '5689769', '5689768'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'UBE2L1[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'UBE2L1[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['251847396', '164740582', '164740581', '164740580', '164740579', '160648692'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MIR1281[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MIR1281[All Fields]'}

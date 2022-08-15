@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['421695', '417498', '416259', '341057', '341055', '341054', '341051', '341049', '341015', '340958', '133154'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ACE[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ACE[All Fields]'}

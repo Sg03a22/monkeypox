@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['5276196', '5255542', '5255528', '5158716', '5158704', '4428950', '4428942', '2955132', '2955126', '2195396', '2195388', '1672178', '1452988'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MCM2[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MCM2[All Fields]'}

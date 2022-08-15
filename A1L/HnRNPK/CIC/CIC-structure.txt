@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['201256', '201255', '199984', '193317', '193316', '177962', '156880', '115728', '108905', '108904', '94533', '84896', '50365'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CIC[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CIC[All Fields]'}

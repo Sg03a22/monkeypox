@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['33692721', '31125666', '27025484', '27018144', '26798498', '26378174', '20455466', '17582172', '10508866', '10021749', '1566575', '4041469'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'C3L[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'C3L[All Fields]'}

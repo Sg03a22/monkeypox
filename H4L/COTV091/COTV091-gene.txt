@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['11747962'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'COTV091[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'COTV091[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['35885025', '33012505', '32140073', '32014991', '31972160', '30945288', '29484647', '28383684', '28336923', '25624462', '22366774'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'DCAF4[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'DCAF4[All Fields]'}

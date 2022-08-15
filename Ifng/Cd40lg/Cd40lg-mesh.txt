@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['68023201'], 'TranslationSet': [{'From': 'Cd40lg', 'To': '"cd40 ligand"[MeSH Terms]'}], 'TranslationStack': [{'Term': '"cd40 ligand"[MeSH Terms]', 'Field': 'MeSH Terms', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': '"cd40 ligand"[MeSH Terms]'}

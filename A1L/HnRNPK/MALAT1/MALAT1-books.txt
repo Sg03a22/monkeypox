@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['5189474', '4933212', '4476138', '4476130', '4476124', '4476120', '4131198', '2967240', '2967238', '2967232', '2967228', '2447942'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MALAT1[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MALAT1[All Fields]'}

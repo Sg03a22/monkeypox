@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['608580', '607929', '607484', '605568', '605532', '602932', '602931', '601595', '191390', '191160', '190182', '165390'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SMURF1[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SMURF1[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '0', 'RetMax': '0', 'RetStart': '0', 'IdList': [], 'TranslationSet': [], 'QueryTranslation': '(BCR41DRAFT344655[All Fields])', 'ErrorList': {'FieldNotFound': [], 'PhraseNotFound': ['BCR41DRAFT344655']}, 'WarningList': {'OutputMessage': ['No items found.'], 'PhraseIgnored': [], 'QuotedPhraseNotFound': []}}

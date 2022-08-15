@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['140283', '140282', '140281', '122364', '85251', '80205', '74835', '66172', '65644', '65306', '65305'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CPB2[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CPB2[All Fields]'}

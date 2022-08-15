@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['67577235', '67546671', '67544835', '67524394', '67519267', '67507134', '67502732', '67406329', '67101085', '67090134', '2050544', '2006734'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PLK1[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PLK1[All Fields]'}

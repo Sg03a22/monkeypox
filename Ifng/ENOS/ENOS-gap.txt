@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['1429147', '1428883', '1405917', '1797099', '1796984', '1796830', '1796807', '1748942', '487416', '421457'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ENOS[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ENOS[All Fields]'}

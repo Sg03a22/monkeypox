@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['35831855', '17242862', '16522193'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ZSWIM2[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ZSWIM2[All Fields]'}

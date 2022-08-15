@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['5187772', '5187762', '4984958', '4936816', '4465126', '4465116', '4465108', '4060628', '4045514', '2553388', '2553378', '1949862', '1418166'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'NFKB1[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'NFKB1[All Fields]'}

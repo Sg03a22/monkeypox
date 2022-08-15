@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['776661', '731852', '428755', '407773'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MEPCE[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MEPCE[All Fields]'}

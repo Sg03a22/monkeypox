@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['34821374', '34498707', '33880593', '33416094', '33174051', '32849774'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'FGD5AS1[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'FGD5AS1[All Fields]'}

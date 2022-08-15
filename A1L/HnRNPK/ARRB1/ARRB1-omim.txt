@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['619768', '613755', '613572', '612464', '606409', '601122', '190198', '182131', '109690', '109630', '107941', '107940'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ARRB1[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ARRB1[All Fields]'}

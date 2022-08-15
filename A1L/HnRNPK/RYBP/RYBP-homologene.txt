@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['8159', '4203'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'RYBP[All Fields]', 'Field': 'All Fields', 'Count': '2', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'RYBP[All Fields]'}

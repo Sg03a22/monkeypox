@@ -1,0 +1,1 @@
+[{'Item': [], 'Id': '705866', 'Status': 'active', 'Rank': 'genus', 'Division': 'butterflies', 'ScientificName': 'Enos', 'CommonName': '', 'TaxId': IntegerElement(705866, attributes={}), 'AkaTaxId': IntegerElement(0, attributes={}), 'Genus': '', 'Species': '', 'Subsp': '', 'ModificationDate': '2018/02/22 00:00'}]

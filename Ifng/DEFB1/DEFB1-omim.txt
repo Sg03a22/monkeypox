@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['616077', '616076', '616075', '615997', '606611', '606464', '605619', '605457', '605330', '604522', '602215', '602056', '600472', '125220'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'DEFB1[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'DEFB1[All Fields]'}

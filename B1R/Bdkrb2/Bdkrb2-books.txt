@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['5255542', '5255528', '3437846', '2961904', '2961894'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Bdkrb2[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Bdkrb2[All Fields]'}

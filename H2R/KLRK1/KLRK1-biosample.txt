@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['27478660', '27478659', '27478658', '27478657', '27478656', '27478655', '27478654', '9813438', '9813437', '9813436'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'KLRK1[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'KLRK1[All Fields]'}

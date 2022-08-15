@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['5299012', '5298996', '5276810', '5276806', '5276804', '5276800', '4955244', '4955226', '4926068', '3049522', '3049482', '2621314'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'KIF14[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'KIF14[All Fields]'}

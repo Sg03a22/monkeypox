@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['8582782', '8445190', '8127317', '7410078', '8474466', '6997532', '6937214', '6116372'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TOGARAM2[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TOGARAM2[All Fields]'}

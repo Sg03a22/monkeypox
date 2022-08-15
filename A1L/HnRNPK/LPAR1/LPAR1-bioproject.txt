@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['678549', '369825', '358577', '295963', '282345', '232049', '151279'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'LPAR1[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'LPAR1[All Fields]'}

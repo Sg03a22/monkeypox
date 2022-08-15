@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['11538204', '11538203', '8275017'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PXN[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PXN[All Fields]'}

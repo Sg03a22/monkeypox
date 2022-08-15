@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['1784818910', '1124156538', '240006241', '240005412', '39758277', '512390499', '414068482', '19702491', '270113939', '270108937'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'FAP[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'FAP[All Fields]'}

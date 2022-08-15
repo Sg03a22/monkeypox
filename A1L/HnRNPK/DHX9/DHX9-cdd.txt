@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['421690', '412133', '380684', '380683', '365791', '350730', '350675', '350178'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'DHX9[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'DHX9[All Fields]'}

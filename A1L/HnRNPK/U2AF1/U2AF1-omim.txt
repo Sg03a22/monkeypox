@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['614286', '613352', '603477', '601626', '601080', '601079', '300818', '300028', '191317', '190685', '190080', '160900'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'U2AF1[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'U2AF1[All Fields]'}

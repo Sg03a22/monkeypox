@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['932351', '3346331', '921637', '5228260', '7011984', '5656723'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'LSDV139[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'LSDV139[All Fields]'}

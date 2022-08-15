@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['67581760', '67512806', '2017139', '2017138', '2017137', '2016525', '2013202'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Gsk3b[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Gsk3b[All Fields]'}

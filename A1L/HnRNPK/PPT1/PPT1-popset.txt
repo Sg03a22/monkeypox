@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['2209209772', '1854341500', '783437796', '1181734865', '323510790'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PPT1[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PPT1[All Fields]'}

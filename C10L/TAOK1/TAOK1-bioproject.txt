@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['480848', '480847', '480709'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TAOK1[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TAOK1[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['1893102', '1849653', '1834824', '1701698'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Hmox1[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Hmox1[All Fields]'}

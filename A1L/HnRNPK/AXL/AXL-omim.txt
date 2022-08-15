@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['612839', '607717', '605402', '604705', '604491', '600441', '600341', '211980', '176880', '161560', '147950', '147780', '109135'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'AXL[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'AXL[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['38229169'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'YMTVg120L[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'YMTVg120L[All Fields]'}

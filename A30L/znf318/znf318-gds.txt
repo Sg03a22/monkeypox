@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['200170244', '200091692', '200091673', '305214549', '305214548', '302423364', '302423363', '302423331', '302423330'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'znf318[All Fields]', 'Field': 'All Fields', 'Count': '3104', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'znf318[All Fields]'}

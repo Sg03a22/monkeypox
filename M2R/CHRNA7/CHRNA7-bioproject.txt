@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['766435', '663174', '602086', '186785', '125551', '108297'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CHRNA7[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CHRNA7[All Fields]'}

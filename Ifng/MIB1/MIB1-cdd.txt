@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['421700', '418438', '408152', '340725', '319700', '319641', '319639', '319638', '319561', '319434', '319433'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MIB1[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MIB1[All Fields]'}

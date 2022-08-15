@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['32570977', '30706012', '26385704', '12350360', '11983854', '11752136', '11035794', '10982364', '10744682', '8955061'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'G4L[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'G4L[All Fields]'}

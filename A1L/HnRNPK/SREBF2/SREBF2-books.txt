@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['5265368', '5265284', '4957388', '2553404', '2553390', '2553388', '2553378'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SREBF2[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SREBF2[All Fields]'}

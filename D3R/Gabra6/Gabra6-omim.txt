@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['181510', '137163', '137160', '137143', '137141', '103780'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Gabra6[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Gabra6[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['614206', '552857', '261045', '261039', '261037', '210614', '98709'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'DTX3L[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'DTX3L[All Fields]'}

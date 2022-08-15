@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['189209', '189208', '188971', '104804', '87565', '60533', '59966', '59965'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Il15[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Il15[All Fields]'}

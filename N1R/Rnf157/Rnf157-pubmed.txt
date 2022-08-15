@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['35642209', '35435923', '35178089', '34815695', '34224310', '32966817', '32175184', '29507613', '28655764', '25342469'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Rnf157[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Rnf157[All Fields]'}

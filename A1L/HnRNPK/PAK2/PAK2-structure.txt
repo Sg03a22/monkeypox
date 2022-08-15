@@ -1,0 +1,1 @@
+{'Count': '15', 'RetMax': '15', 'RetStart': '0', 'IdList': ['146224', '139574', '118677', '112964', '87741', '87740', '58153', '57125', '50849', '50837', '48353', '48352', '38787', '38657', '1931'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PAK2[All Fields]', 'Field': 'All Fields', 'Count': '15', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PAK2[All Fields]'}

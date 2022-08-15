@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['617583', '611802', '609831', '609632', '606599', '603235', '600538', '300927', '277400', '187700', '176763'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Prdx1[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Prdx1[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['2700111'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CNPV218[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CNPV218[All Fields]'}

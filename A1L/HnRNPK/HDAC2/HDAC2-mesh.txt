@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['68056464', '67586127', '67533426', '67533424', '67533423', '67491870', '67485852', '67411744', '2100321', '2013091'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'HDAC2[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'HDAC2[All Fields]'}

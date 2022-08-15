@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['104499', '104498', '99744', '99743', '78505'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'KNG1[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'KNG1[All Fields]'}

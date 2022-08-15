@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['644123', '622500', '622499', '622498', '622495', '318757', '252956', '153059', '146563', '116807'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'RBM4[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'RBM4[All Fields]'}

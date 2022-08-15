@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['614538', '607889', '607887', '605402', '604459', '604378', '604256', '603956', '600005', '236000'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CD274[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CD274[All Fields]'}

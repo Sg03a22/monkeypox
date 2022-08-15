@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['163322138', '162351826', '155817516', '138911330', '138713709', '134821691', '130339268', '129626433', '118878262', '101043725', '91809175'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TYK2[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TYK2[All Fields]'}

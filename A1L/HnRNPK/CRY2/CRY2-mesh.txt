@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['67538968', '67538967', '67538966', '67103618', '2013566'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CRY2[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CRY2[All Fields]'}

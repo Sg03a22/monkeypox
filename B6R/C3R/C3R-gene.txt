@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['718', '16523', '951558'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'C3R[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'C3R[All Fields]'}

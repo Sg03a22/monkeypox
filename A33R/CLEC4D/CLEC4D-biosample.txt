@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['16181824', '16181821', '16181819', '16181817', '16181793', '16181790', '16181788'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CLEC4D[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CLEC4D[All Fields]'}

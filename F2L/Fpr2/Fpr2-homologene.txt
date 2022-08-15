@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['74395', '40604'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Fpr2[All Fields]', 'Field': 'All Fields', 'Count': '2', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Fpr2[All Fields]'}

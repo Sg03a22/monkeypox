@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['215449', '179074'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'UBQLN2[All Fields]', 'Field': 'All Fields', 'Count': '2', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'UBQLN2[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['476216', '101599123'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'HBZ[All Fields]', 'Field': 'All Fields', 'Count': '2', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'HBZ[All Fields]'}

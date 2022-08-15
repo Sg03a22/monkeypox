@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['190334', '190333', '183812', '183809', '176443', '169240', '169239', '169238', '169237'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'YBX1[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'YBX1[All Fields]'}

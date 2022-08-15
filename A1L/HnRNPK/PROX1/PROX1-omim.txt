@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['612743', '612742', '609429', '608863', '601618', '601546', '601528', '600528', '600505', '191170', '190180', '148000', '137295', '112262'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PROX1[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PROX1[All Fields]'}

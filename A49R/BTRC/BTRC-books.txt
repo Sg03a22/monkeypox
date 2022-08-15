@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['3291882', '3291880', '3291878', '3291876', '3291872', '3291870', '3291868', '3291866', '3291864', '3291862', '3291734'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'BTRC[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'BTRC[All Fields]'}

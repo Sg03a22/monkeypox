@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['615650', '609736', '608414', '607894', '607190', '604763', '604406', '604394', '604107', '603215', '600998', '139313'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Gna12[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Gna12[All Fields]'}

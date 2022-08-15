@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['412160', '411929', '411928', '411927', '411926', '411925', '411924', '411923', '411922', '411921', '411920', '411919', '411918'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Actb[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Actb[All Fields]'}

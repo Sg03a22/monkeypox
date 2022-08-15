@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['847881', '794847', '794845', '753392', '673445', '592139', '589277', '589276', '589269', '120871', '114569'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Cd40lg[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Cd40lg[All Fields]'}

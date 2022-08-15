@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['41057156', '1215835395', '1209331704'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ORFVgORF093[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ORFVgORF093[All Fields]'}

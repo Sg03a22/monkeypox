@@ -1,0 +1,1 @@
+[{'Item': [], 'Id': '1916343', 'Status': 'active', 'Rank': 'species', 'Division': 'ascomycete fungi', 'ScientificName': 'Phaeoacremonium pravum', 'CommonName': '', 'TaxId': IntegerElement(1916343, attributes={}), 'AkaTaxId': IntegerElement(0, attributes={}), 'Genus': 'Phaeoacremonium', 'Species': 'pravum', 'Subsp': '', 'ModificationDate': '2018/10/29 00:00'}]

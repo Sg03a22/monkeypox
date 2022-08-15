@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['8121714', '8121713', '8121712', '8121692', '8121691', '8121690', '8121689', '8121642', '8121641', '8121640', '11031050'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CRBN[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CRBN[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['17339628', '17338459', '2434713', '2433177', '2431641', '2430104'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'NCAPH[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'NCAPH[All Fields]'}

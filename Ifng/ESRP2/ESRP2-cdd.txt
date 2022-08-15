@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['418427', '410138', '410135', '409931', '409930', '409699', '241184', '240951'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ESRP2[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ESRP2[All Fields]'}

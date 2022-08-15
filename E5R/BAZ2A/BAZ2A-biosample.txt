@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['22507619', '22505894', '21242825', '21242823', '12274437', '12274427', '12274419', '4690041', '4666685', '4663553', '4656729'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'BAZ2A[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'BAZ2A[All Fields]'}

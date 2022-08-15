@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['2735061', '2732372', '2684584', '2680379'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PTEN[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PTEN[All Fields]'}

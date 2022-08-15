@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['2183462378', '2071731084', '1931335336', '1469280537', '987385363', '268308281', '693268389', '388894642', '507208501', '66897798'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CHD2[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CHD2[All Fields]'}

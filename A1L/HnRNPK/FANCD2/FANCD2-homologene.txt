@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['129620', '116812', '93047', '49530', '45598', '45456', '13212', '4210'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'FANCD2[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'FANCD2[All Fields]'}

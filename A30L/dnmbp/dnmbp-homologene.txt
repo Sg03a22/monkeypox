@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['9061'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'dnmbp[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'dnmbp[All Fields]'}

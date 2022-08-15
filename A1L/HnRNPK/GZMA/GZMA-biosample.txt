@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['16229306', '16229304', '16229302', '16229300', '16229298', '16229296', '10365247'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'GZMA[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'GZMA[All Fields]'}

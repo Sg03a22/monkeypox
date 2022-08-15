@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['614349', '611420', '606070', '603790', '314670', '173110', '164015', '105400'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MATR3[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MATR3[All Fields]'}

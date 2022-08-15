@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['619695', '613065', '607083', '606681', '602952', '602810', '602769', '117550'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'NSD2[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'NSD2[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['619874', '614745', '607961', '603961', '211600', '192968', '135630'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SEMA7A[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SEMA7A[All Fields]'}

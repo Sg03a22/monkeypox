@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['189557', '147581', '147580', '79666', '33354', '33312', '28810', '28809', '28808', '28807'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'RAB7A[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'RAB7A[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['211131', '207065', '110815', '105542', '41149'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'HEBP1[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'HEBP1[All Fields]'}

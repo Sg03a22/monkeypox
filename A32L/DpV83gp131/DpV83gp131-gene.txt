@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['3346295'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'DpV83gp131[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'DpV83gp131[All Fields]'}

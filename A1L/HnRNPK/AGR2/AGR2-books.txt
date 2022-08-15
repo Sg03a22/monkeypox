@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['4692092', '4692046', '4692036', '4241168', '4240460', '4240440', '3080120', '3080114', '3080016'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'AGR2[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'AGR2[All Fields]'}

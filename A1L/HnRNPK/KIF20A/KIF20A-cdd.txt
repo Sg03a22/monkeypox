@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['425378', '409645', '409644', '409643'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'KIF20A[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'KIF20A[All Fields]'}

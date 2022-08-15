@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['476014', '470103', '101650691', '101305198'], 'TranslationSet': [{'From': 'Lgals1', 'To': '"galectin 1"[All Fields]'}], 'TranslationStack': [{'Term': '"galectin 1"[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': '"galectin 1"[All Fields]'}

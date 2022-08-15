@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['856698', '814732', '802495', '718308', '691473', '670426', '635172', '486003', '357285', '116625'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'BEND3[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'BEND3[All Fields]'}

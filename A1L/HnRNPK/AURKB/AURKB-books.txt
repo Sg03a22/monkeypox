@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['5255542', '5255528', '4676076', '4475956', '3025264', '3025254', '3025150', '3025140', '2580932', '2580878', '1415644'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'AURKB[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'AURKB[All Fields]'}

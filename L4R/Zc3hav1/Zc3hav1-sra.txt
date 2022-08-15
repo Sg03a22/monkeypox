@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['23520785', '17340595', '17338264', '13374671', '13374670', '2435307', '2433771', '2432235', '2430698'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Zc3hav1[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Zc3hav1[All Fields]'}

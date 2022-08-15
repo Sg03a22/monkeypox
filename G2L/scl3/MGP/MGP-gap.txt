@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['1797096', '1797091', '1796911', '1796829', '1748942', '1913127', '1882676', '1701702', '135238', '135211', '134383', '133860'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MGP[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MGP[All Fields]'}

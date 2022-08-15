@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['1863294875', '1578913403', '1516331008', '663682261', '668592843', '519667570', '39765870', '398651707', '348011288', '66891660'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Park7[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Park7[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['4660078', '4476384', '4474804', '3094034', '3049522', '3049478'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'GOPC[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'GOPC[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['5115518', '5115516', '4710888', '4102312', '4102310', '4102300', '4102292', '2962216', '2643988', '2350140'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Scnn1a[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Scnn1a[All Fields]'}

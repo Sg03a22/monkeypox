@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['418438', '413332', '412124', '380891', '319675', '319595', '188817', '188815', '188810', '188806', '188733', '188732', '188731', '188729'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'FHL2[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'FHL2[All Fields]'}

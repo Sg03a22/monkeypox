@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['613098', '600731', '600730', '600018', '300005', '165196', '165195', '103780'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'OPRK1[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'OPRK1[All Fields]'}

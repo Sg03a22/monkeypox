@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['1925594', '1925584', '1925571', '1925539', '1913763', '1790423', '1748942', '222493', '222450'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'DRD2[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'DRD2[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['698976', '608915', '607812', '494712', '473836', '454568', '445699', '400625', '388433', '388432', '388429', '312702'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Khsrp[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Khsrp[All Fields]'}

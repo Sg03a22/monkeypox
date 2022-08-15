@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['60471', '60470', '58637', '30346'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'pstP[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'pstP[All Fields]'}

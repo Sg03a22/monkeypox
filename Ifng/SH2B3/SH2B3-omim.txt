@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['617573', '613065', '612520', '612011', '612008', '612006', '605093', '254450', '222100', '212750', '187950', '133100'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SH2B3[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SH2B3[All Fields]'}

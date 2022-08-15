@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['2029046520', '2029046518', '2029046516', '2029046514', '2027445814'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'LOC121201144[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'LOC121201144[All Fields]'}

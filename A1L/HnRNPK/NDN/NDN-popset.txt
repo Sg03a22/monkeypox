@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['149364146', '1191946662', '402235714', '402235694', '402235688', '402235590', '402235582'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'NDN[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'NDN[All Fields]'}

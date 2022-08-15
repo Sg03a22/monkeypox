@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['208370', '184467', '184466', '170032', '168205', '168204', '168203', '168201', '167999', '166384', '160722', '160721'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'DUX4[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'DUX4[All Fields]'}

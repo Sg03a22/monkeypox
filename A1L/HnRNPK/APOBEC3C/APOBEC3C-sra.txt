@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['6090942', '6090930', '3294345', '3294344'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'APOBEC3C[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'APOBEC3C[All Fields]'}

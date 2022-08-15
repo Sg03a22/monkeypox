@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['187104', '114253', '114252', '84872', '84871', '78666'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PLXNC1[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PLXNC1[All Fields]'}

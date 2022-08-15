@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['418401', '416402', '213017', '212874', '212734', '212733', '212732', '212731', '212730', '212729', '212728', '153273'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'dnmbp[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'dnmbp[All Fields]'}

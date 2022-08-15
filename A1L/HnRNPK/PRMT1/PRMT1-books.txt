@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['4465970', '4465274', '4103724', '4103712', '4103710', '3190066', '3069324', '2510968', '2510954'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PRMT1[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PRMT1[All Fields]'}

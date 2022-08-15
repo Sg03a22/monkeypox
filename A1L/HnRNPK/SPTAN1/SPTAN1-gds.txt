@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['200087340'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SPTAN1[All Fields]', 'Field': 'All Fields', 'Count': '3661', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SPTAN1[All Fields]'}

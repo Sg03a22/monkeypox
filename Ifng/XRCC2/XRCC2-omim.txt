@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['619146', '619145', '618703', '617247', '614535', '606769', '602954', '602948', '602774', '600675', '600375', '311360', '258150', '227650'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'XRCC2[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'XRCC2[All Fields]'}

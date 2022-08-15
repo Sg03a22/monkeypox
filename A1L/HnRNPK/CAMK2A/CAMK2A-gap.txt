@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['1894005', '1831209', '1701698'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CAMK2A[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CAMK2A[All Fields]'}

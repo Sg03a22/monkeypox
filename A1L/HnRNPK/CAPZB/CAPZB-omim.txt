@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['612412', '612306', '605143', '601580', '601572', '601571'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CAPZB[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CAPZB[All Fields]'}

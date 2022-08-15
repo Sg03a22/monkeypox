@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['737990', '691146', '561411', '561210', '540620', '400173', '375753', '374741', '294156', '256335', '230267', '188445'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PCBP2[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PCBP2[All Fields]'}

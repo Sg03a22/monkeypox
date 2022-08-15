@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['519'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'BDKRB2[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'BDKRB2[All Fields]'}

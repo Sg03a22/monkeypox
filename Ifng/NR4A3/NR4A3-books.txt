@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['5255542', '5255528', '4544006', '4543986', '4078916', '4078902', '2967240', '2967234', '2827036', '2827028', '2827018', '2825746', '1990956'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'NR4A3[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'NR4A3[All Fields]'}

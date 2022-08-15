@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['762103', '262897', '125633', '112827'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CHGB[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CHGB[All Fields]'}

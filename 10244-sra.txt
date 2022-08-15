@@ -1,0 +1,1 @@
+[{'Item': [], 'Id': '10244', 'ExpXml': '<Experiment acc="SRX009957" ver="5" status="withdrawn"><Withdrawn> <span>TCGA sequence data has moved to <a href="https://cghub.ucsc.edu">CGHub</a></span> </Withdrawn></Experiment>', 'Runs': '', 'ExtLinks': '', 'CreateDate': '', 'UpdateDate': ''}]

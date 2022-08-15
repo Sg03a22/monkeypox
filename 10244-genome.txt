@@ -1,0 +1,1 @@
+[{'Item': [], 'Id': '10244', 'Organism_Name': 'Duringlanis perugiae', 'Organism_Kingdom': 'Eukaryota', 'DefLine': 'Centromochlus perugiae overview', 'ProjectID': '69501', 'Number_of_Chromosomes': '0', 'Number_of_Plasmids': '0', 'Number_of_Organelles': '0', 'Assembly_Name': '', 'Assembly_Accession': '', 'AssemblyID': '0', 'Create_Date': '2011/06/29 00:00', 'Options': ''}]

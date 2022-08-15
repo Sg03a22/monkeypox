@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['4997430', '3046494', '3046482', '2619546', '2619536', '2619526'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Chrm2[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Chrm2[All Fields]'}

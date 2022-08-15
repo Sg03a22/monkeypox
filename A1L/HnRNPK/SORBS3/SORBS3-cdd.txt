@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['418401', '212857', '212854', '212851', '212716', '212715', '212714'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SORBS3[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SORBS3[All Fields]'}

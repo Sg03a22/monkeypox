@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['1375809930', '1241781272', '2187412056', '1331900476', '1331900475', '1331900474', '1331800899', '1331800898', '1331800897'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'UBE2L5P[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'UBE2L5P[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['861157', '851620', '658692', '564102', '414209', '310235', '294010', '141427', '131007'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Fbxo32[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Fbxo32[All Fields]'}

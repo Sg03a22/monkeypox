@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['5276386', '5186570', '5186554', '5100590', '5100574', '4991858', '4933840', '4933834', '2337644', '1465990'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SNX10[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SNX10[All Fields]'}

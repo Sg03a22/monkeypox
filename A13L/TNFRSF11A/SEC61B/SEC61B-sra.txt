@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['20896637', '20896636', '20896634', '20896633', '20896632', '20896631', '7578547', '7578546', '7578545'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SEC61B[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SEC61B[All Fields]'}

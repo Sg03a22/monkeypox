@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['13421004', '13421003', '2597486', '2597485', '2597484', '2597483', '2597482', '2597481', '2597480', '2597479', '2597478', '2597477'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Bcl2l11[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Bcl2l11[All Fields]'}

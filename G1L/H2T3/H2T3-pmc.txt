@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['5828614', '5290542', '5191101', '3081423', '4889425', '1180175', '1180174', '434356'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'H2T3[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'H2T3[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['67484219', '67088730', '67072715'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'RALY[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'RALY[All Fields]'}

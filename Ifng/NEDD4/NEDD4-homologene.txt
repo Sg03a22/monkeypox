@@ -1,0 +1,1 @@
+{'Count': '15', 'RetMax': '15', 'RetStart': '0', 'IdList': ['141133', '136740', '136208', '135677', '134533', '133766', '115380', '110172', '86986', '32396', '23703', '17124', '14151', '12730', '12636'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'NEDD4[All Fields]', 'Field': 'All Fields', 'Count': '15', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'NEDD4[All Fields]'}

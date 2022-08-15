@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['4646032', '4626738', '4626736', '3023650', '3023642', '1432228', '1432226', '1432220', '1427978', '1427968'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'VAV1[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'VAV1[All Fields]'}

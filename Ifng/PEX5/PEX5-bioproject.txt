@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['844556', '742694', '703841', '657442', '145017', '145013', '138091'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PEX5[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PEX5[All Fields]'}

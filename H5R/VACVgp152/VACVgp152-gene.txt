@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['1486243', '1486206', '1486166'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'VACVgp152[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'VACVgp152[All Fields]'}

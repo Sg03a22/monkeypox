@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['614889', '608382', '607948', '601604', '600555', '147569', '107470', '107450', '102582'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'IFNGR2[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'IFNGR2[All Fields]'}

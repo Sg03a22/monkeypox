@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['616604', '609589', '608729', '606039', '604775', '600337', '151530', '113503', '106180'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'BDKRB2[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'BDKRB2[All Fields]'}

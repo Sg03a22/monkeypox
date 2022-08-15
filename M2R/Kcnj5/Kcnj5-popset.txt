@@ -1,0 +1,1 @@
+{'Count': '1', 'RetMax': '1', 'RetStart': '0', 'IdList': ['378406352'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Kcnj5[All Fields]', 'Field': 'All Fields', 'Count': '1', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Kcnj5[All Fields]'}

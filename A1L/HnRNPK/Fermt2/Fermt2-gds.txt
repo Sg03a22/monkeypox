@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['200066351', '200099832', '200099831', '200099830', '200099829', '200108396', '200108395', '200083379'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Fermt2[All Fields]', 'Field': 'All Fields', 'Count': '3633', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Fermt2[All Fields]'}

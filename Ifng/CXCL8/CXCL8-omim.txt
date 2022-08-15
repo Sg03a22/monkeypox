@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['616560', '613665', '611387', '609423', '607212', '607003', '603749', '300357', '212050', '181460', '146930', '146928', '146661'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CXCL8[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CXCL8[All Fields]'}

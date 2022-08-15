@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['201087', '196928', '172951', '172950', '144942', '122988', '122987', '114190', '88028'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MYCN[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MYCN[All Fields]'}

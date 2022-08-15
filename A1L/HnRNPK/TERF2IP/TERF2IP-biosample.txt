@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['22508054', '22506333', '4694438', '4689176', '4686570', '4682601'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TERF2IP[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TERF2IP[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['706673', '675855', '650207', '646247', '396929', '126887', '126563', '111785', '109199', '109197', '100537'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PPIA[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PPIA[All Fields]'}

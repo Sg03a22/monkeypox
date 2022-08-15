@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['420490', '420489', '420487', '290726', '278151'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PSMB11[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PSMB11[All Fields]'}

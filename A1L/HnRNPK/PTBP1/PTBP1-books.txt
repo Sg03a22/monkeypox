@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['4476138', '4476130', '4476124', '4476122', '4103726', '4103724', '4103718', '4103714', '4103710'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PTBP1[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PTBP1[All Fields]'}

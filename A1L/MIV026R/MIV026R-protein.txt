@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['109287904', '106073527', '589287936', '527333576', '589288113', '589287758', '589057739', '589057917', '589057563', '527170582'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MIV026R[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MIV026R[All Fields]'}

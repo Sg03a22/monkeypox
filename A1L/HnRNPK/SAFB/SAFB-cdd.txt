@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['418427', '409851', '365795', '350652', '350651'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SAFB[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SAFB[All Fields]'}

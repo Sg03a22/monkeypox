@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['129904074', '129903993', '129903975', '126650041', '123134029', '89557813', '22343321', '3270828', '2835211', '151042', '19658', '9738', '1570'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MPO[All Fields]', 'Field': 'All Fields', 'Count': '21', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MPO[All Fields]'}

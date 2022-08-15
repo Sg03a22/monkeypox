@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['67569741', '67566908', '67533522'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Tuba1a[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Tuba1a[All Fields]'}

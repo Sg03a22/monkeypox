@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['673138', '637494', '574183', '357684', '280998', '280997', '260057', '253114', '243869', '214248', '170140', '149013', '106271'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Rgs4[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Rgs4[All Fields]'}

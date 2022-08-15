@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['210413', '210412', '207506', '207499', '182515', '172019', '172018', '172017', '158158'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'B2R[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'B2R[All Fields]'}

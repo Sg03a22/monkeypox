@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['41282', '31334', '9447', '3273'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Erbb2[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Erbb2[All Fields]'}

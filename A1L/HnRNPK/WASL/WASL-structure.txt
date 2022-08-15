@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['189521', '114651', '114648', '102326', '83624', '67695', '38256', '35570'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'WASL[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'WASL[All Fields]'}

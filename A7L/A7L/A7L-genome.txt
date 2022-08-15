@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['82219', '22968', '5356', '5312', '5259', '4386'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'A7L[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'A7L[All Fields]'}

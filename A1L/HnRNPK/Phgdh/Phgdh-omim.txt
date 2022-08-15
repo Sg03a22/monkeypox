@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['619773', '606951', '606879', '601815', '600492', '256520', '114480'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Phgdh[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Phgdh[All Fields]'}

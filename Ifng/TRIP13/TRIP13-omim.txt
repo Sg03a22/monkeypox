@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['619011', '618842', '618136', '617598', '615774', '612425', '609824', '604507', '601467', '257300'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TRIP13[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TRIP13[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['140804', '136803', '87808', '21600'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'RANBP2[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'RANBP2[All Fields]'}

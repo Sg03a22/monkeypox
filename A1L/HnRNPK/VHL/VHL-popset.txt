@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['675584213', '392055956', '66895018'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'VHL[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'VHL[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['614415', '614257', '612952', '610448', '606754', '606609', '225750'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SAMHD1[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SAMHD1[All Fields]'}

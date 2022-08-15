@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['155487799', '139600328', '138911393', '138911392', '138059656', '56841667', '54731234', '44442167', '44442164', '24851257'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'VCP[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'VCP[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['17339646', '17338854', '2433891', '2432355', '2430818', '2429282'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'SCAF11[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'SCAF11[All Fields]'}

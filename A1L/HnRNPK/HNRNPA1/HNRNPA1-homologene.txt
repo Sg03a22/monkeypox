@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['138758', '138489', '138303', '136809', '134664', '134628', '134075', '48495', '22992'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'HNRNPA1[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'HNRNPA1[All Fields]'}

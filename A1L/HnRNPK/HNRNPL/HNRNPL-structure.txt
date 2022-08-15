@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['134944', '134943', '134942', '129439', '128969', '128968', '128967', '97785', '95089', '93565', '91992'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'HNRNPL[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'HNRNPL[All Fields]'}

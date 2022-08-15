@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['617991', '617824', '612870', '603756'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PHIP[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PHIP[All Fields]'}

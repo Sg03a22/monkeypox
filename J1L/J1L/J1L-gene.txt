@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['928994', '932550', '1486447', '72551607', '41902200', '41901817', '41901651', '932536', '41902695'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'J1L[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'J1L[All Fields]'}

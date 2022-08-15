@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['425408', '418438', '418428', '412013', '402914', '319374', '241484'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CARM1[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CARM1[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['589285964', '589284743', '50345806', '392572743', '50261274', '134115345', '134114611', '50256600'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CNBH0610[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CNBH0610[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['139466', '838'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'VCAM1[All Fields]', 'Field': 'All Fields', 'Count': '2', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'VCAM1[All Fields]'}

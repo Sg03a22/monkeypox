@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['111601', '95806', '95663', '87237', '74720', '44257', '44256', '35772', '35624', '24308'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CBLB[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CBLB[All Fields]'}

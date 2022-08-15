@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['207377', '179899', '179898'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ACOD1[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ACOD1[All Fields]'}

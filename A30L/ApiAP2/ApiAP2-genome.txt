@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['17509', '32', '31'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ApiAP2[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ApiAP2[All Fields]'}

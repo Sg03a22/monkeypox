@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['618131', '617573', '611817', '610859', '609243', '605877', '603598', '600169', '178500'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Klrk1[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Klrk1[All Fields]'}

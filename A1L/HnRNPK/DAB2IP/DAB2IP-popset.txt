@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['1382749093', '1159611418', '66901159'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'DAB2IP[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'DAB2IP[All Fields]'}

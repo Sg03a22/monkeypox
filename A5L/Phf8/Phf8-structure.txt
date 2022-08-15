@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['199910', '98049', '88259', '88258', '79462', '79461', '78979', '78978', '78977', '78976', '78975', '78974', '78136', '30491'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Phf8[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Phf8[All Fields]'}

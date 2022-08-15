@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['536293503', '2194974693', '568815596', '536293548', '699964225'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'NRIR[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'NRIR[All Fields]'}

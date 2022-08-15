@@ -1,0 +1,1 @@
+{'Count': '5', 'RetMax': '5', 'RetStart': '0', 'IdList': ['418402', '212687', '212682', '212680', '212670'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'HSPA4[All Fields]', 'Field': 'All Fields', 'Count': '5', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'HSPA4[All Fields]'}

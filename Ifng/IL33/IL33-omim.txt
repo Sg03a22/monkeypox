@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['608678', '605658', '605103', '604672', '604153', '603423', '603030', '602626', '602048', '601512', '601203', '147683', '147678'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'IL33[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'IL33[All Fields]'}

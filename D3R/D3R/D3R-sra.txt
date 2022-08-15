@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['22892160', '19510962', '14304220', '12068313', '12068263', '10506396', '3575021', '3574623', '3574585', '3574211', '3574061', '3573935'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'D3R[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'D3R[All Fields]'}

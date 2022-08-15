@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['10751137', '10751136', '10751135', '10751134', '10751127', '10751126', '10751125', '10751124', '7830505', '7830504', '7595511'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CHRM4[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CHRM4[All Fields]'}

@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['1449937', '18263583'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'MSV149[All Fields]', 'Field': 'All Fields', 'Count': '2', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'MSV149[All Fields]'}

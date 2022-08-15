@@ -1,0 +1,1 @@
+{'Count': '13', 'RetMax': '13', 'RetStart': '0', 'IdList': ['418427', '410137', '409975', '409951', '409950', '409931', '409930', '409722', '241187', '241182', '240978', '240951', '240758'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Fus[All Fields]', 'Field': 'All Fields', 'Count': '13', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Fus[All Fields]'}

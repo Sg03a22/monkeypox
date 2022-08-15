@@ -1,0 +1,1 @@
+{'Count': '8', 'RetMax': '8', 'RetStart': '0', 'IdList': ['616686', '615241', '611258', '610747', '605920', '601716', '601430', '176914'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'STAU1[All Fields]', 'Field': 'All Fields', 'Count': '8', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'STAU1[All Fields]'}

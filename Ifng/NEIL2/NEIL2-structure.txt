@@ -1,0 +1,1 @@
+{'Count': '3', 'RetMax': '3', 'RetStart': '0', 'IdList': ['191163', '114778', '106626'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'NEIL2[All Fields]', 'Field': 'All Fields', 'Count': '3', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'NEIL2[All Fields]'}

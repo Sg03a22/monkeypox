@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['5255542', '5255528', '4593794', '4593782', '4293562', '3450490', '2828484', '2827028', '2827018', '1684954', '1684444'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TPM4[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TPM4[All Fields]'}

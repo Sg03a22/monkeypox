@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['200295', '194228', '178517', '170198', '155635', '150045', '114873', '97313', '85912', '78013', '74624'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Rbpj[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Rbpj[All Fields]'}

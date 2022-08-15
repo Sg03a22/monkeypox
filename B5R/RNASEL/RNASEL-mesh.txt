@@ -1,0 +1,1 @@
+{'Count': '2', 'RetMax': '2', 'RetStart': '0', 'IdList': ['67537243', '67031956'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'RNASEL[All Fields]', 'Field': 'All Fields', 'Count': '2', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'RNASEL[All Fields]'}

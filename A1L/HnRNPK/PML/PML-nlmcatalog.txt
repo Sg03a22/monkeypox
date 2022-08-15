@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['101671873', '101621708', '101589893', '101462953', '101289146', '101258859', '101249880', '9705469', '101036838', '8409085', '101005972'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'PML[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'PML[All Fields]'}

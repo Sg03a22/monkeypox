@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['412147', '365784', '349563', '340408'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'ACLY[All Fields]', 'Field': 'All Fields', 'Count': '4', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'ACLY[All Fields]'}

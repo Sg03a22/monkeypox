@@ -1,0 +1,1 @@
+{'Count': '14', 'RetMax': '14', 'RetStart': '0', 'IdList': ['216800', '216799', '216798', '194231', '175053', '173121', '171436', '171429', '106434', '102307', '81950', '68438', '53630', '24101'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Rbm8a[All Fields]', 'Field': 'All Fields', 'Count': '14', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Rbm8a[All Fields]'}

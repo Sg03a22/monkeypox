@@ -1,0 +1,1 @@
+{'Count': '4', 'RetMax': '4', 'RetStart': '0', 'IdList': ['200027871', '200027869', '200007880', '300688410'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TCEA2[All Fields]', 'Field': 'All Fields', 'Count': '3751', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TCEA2[All Fields]'}

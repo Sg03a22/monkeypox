@@ -1,0 +1,1 @@
+{'Count': '12', 'RetMax': '12', 'RetStart': '0', 'IdList': ['8835425', '8835424', '8835423', '8835422', '8835421', '8835420', '8835419', '8835418', '8835417', '8835416', '8835415', '8835414'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'NAPRT[All Fields]', 'Field': 'All Fields', 'Count': '12', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'NAPRT[All Fields]'}

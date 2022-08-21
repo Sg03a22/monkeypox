@@ -1,0 +1,1 @@
+{'Count': '7', 'RetMax': '7', 'RetStart': '0', 'IdList': ['751571', '733134', '733122', '733118', '606450', '592532', '453131'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CMTR1[All Fields]', 'Field': 'All Fields', 'Count': '7', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CMTR1[All Fields]'}

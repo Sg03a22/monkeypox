@@ -1,0 +1,1 @@
+{'Count': '10', 'RetMax': '10', 'RetStart': '0', 'IdList': ['604675', '454203', '325072', '325004', '325003', '324875', '322617', '154505', '150339', '146367'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'YAF2[All Fields]', 'Field': 'All Fields', 'Count': '10', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'YAF2[All Fields]'}

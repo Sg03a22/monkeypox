@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['200179114', '200180624', '200071569', '200020189', '200019935', '305407025', '305466216', '305466214', '301838578', '301838577', '301838576'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Acp1[All Fields]', 'Field': 'All Fields', 'Count': '4034', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Acp1[All Fields]'}

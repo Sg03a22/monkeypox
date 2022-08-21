@@ -1,0 +1,1 @@
+{'Count': '11', 'RetMax': '11', 'RetStart': '0', 'IdList': ['787533', '641930', '641929', '640425', '607121', '550126', '480593', '318904', '311591', '311561', '273314'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'Raly[All Fields]', 'Field': 'All Fields', 'Count': '11', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'Raly[All Fields]'}

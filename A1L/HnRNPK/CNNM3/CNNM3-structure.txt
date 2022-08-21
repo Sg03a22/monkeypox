@@ -1,0 +1,1 @@
+{'Count': '9', 'RetMax': '9', 'RetStart': '0', 'IdList': ['189577', '180284', '168249', '168245', '147181', '143997', '143996', '143995', '143994'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'CNNM3[All Fields]', 'Field': 'All Fields', 'Count': '9', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'CNNM3[All Fields]'}

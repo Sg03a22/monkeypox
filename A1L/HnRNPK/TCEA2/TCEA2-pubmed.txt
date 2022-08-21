@@ -1,0 +1,1 @@
+{'Count': '6', 'RetMax': '6', 'RetStart': '0', 'IdList': ['35389552', '25184681', '23680185', '18506748', '10689187', '9441762'], 'TranslationSet': [], 'TranslationStack': [{'Term': 'TCEA2[All Fields]', 'Field': 'All Fields', 'Count': '6', 'Explode': 'N'}, 'GROUP'], 'QueryTranslation': 'TCEA2[All Fields]'}
